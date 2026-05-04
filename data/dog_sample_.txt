@@ -1,0 +1,1005 @@
+﻿Brian Hernandez | Zeus | Poodle | 7 | 39 | 11.13 | 17/04/2026 12:13 a. m.
+Jennifer Smith | Toby | Beaggle | 18 | 80 | 9.84 | 22/04/2026 02:41 a. m.
+Felipe Scott | Coco | Siberian Husky | 11 | 52 | 17.04 | 30/04/2026 06:58 p. m.
+Martina Perez | Jack | French Bull dog | 4 | 27 | 12.51 | 30/04/2026 10:41 a. m.
+Daniela Jones | Rocky | German Shepherd | 4 | 27 | 24.48 | 19/04/2026 07:22 p. m.
+Mark Brown | Toby | German Shepherd | 12 | 56 | 24.49 | 03/05/2026 07:10 p. m.
+Patricia Perez | Bella | Poodle | 5 | 31 | 6.04 | 11/04/2026 10:37 p. m.
+RONALD ALLEN | Luna | german shepherd | 17 | 76 | 18.22 | 03/05/2026 08:46 a. m.
+sebastian jones | Thor | golden retriver | 18 | 80 | 29.32 | 22/04/2026 05:41 a. m.
+Michael Young | Cooper | French Bulldog | 9 | 47 | 12.34 | 30/04/2026 01:02 p. m.
+Harper Thompson | Bella | Poodle | 18 | 80 | 13.89 | 15/04/2026 02:56 p. m.
+Ricardo Williams | Toby | Siberian Huskey | 1 | 13 | 11.91 | 16/04/2026 09:50 a. m.
+Noah Torres | Thor | French Bulldog | 18 | 80 | 10.72 | 06/05/2026 11:51 p. m.
+Charlotte Thomas | Duke | Chihuahua | 0 | 0 | 2.53 | 05/05/2026 04:59 a. m.
+Martina Smith | Coco | Siberian Husky | 18 | 80 | 26.22 | 02/05/2026 03:35 a. m.
+Joseph Williams | Toby | Siberian Husky | 0 | 0 | 21.65 | 02/05/2026 02:31 a. m.
+Steven Hernandez | Daisy | Golden Retriever | 18 | 80 | 23.26 | 04/05/2026 08:02 a. m.
+Timothy Anderson | Daisy | french bulldog | 18 | 80 | 12.26 | 11/04/2026 05:24 p. m.
+Mariana Harris | Coco | German Shepherd | 9 | 47 | 22.51 | 03/05/2026 10:17 p. m.
+Benjamin White | Zeus | Golden Retriever | 18 | 80 | 27.24 | 17/04/2026 11:26 a. m.
+Daniela Allen | Lola | Dachshund | 18 | 80 | 9.37 | 20/04/2026 05:32 a. m.
+Jessica Smith | Rocky | Chihuahua | 10 | 48 | 3.33 | 17/04/2026 12:03 a. m.
+Amelia Williams | zeus | Beaggle | 1 | 13 | 14.03 | 22/04/2026 10:43 a. m.
+Diego King | Lola | Dachshund | 18 | 80 | 4.52 | 04/05/2026 08:31 p. m.
+Charlotte Perez | Daisy | Poodle | 12 | 56 | 18.21 | 14/04/2026 11:12 a. m.
+Sofía Miller | Jack | Dachshund | 18 | 80 | 8.48 | 20/04/2026 01:29 p. m.
+Susan Anderson | cooper | Chihuaua | 18 | 80 | 19.49 | 15/04/2026 01:56 a. m.
+Mark Jackson | Bruno | Siberian Huskey | 11 | 52 | 17.56 | 21/04/2026 02:10 p. m.
+Sarah Thomas | Bella | Dachshund | 18 | 80 | 9.51 | 25/04/2026 06:26 a. m.
+Mariana Miller | Molly | Poodle | 18 | 80 | 9.73 | 30/04/2026 01:48 p. m.
+Anthony Sanchez | Duke | Golden Retriever | 18 | 80 | 23.97 | 09/04/2026 11:46 p. m.
+John Rodriguez | Toby | German Shepherd | 18 | 80 | 28.38 | 23/04/2026 08:24 p. m.
+Santiago Hernandez | Bella | Golden Retrevier | 16 | 72 | 29.96 | 23/04/2026 09:21 p. m.
+Ethan White | Toby | Golden Retriever | 18 | 80 | 22.55 | 21/04/2026 06:52 a. m.
+Christopher Anderson | Duke | Dachshund | 9 | 47 | 8.85 | 06/05/2026 01:55 a. m.
+Fernando Garcia | Rocky | Poodle | 1 | 13 | 6.94 | 23/04/2026 11:22 p. m.
+Lisa Allen | Toby | Dachshund | 13 | 60 | 4.2 | 15/04/2026 07:06 a. m.
+Felipe Wright | Molly | Beagle | 5 | 31 | 8.14 | 16/04/2026 01:13 p. m.
+santiago davis | Bruno | german shepherd | 5 | 31 | 18.41 | 26/04/2026 11:44 p. m.
+Kevin Perez | Cooper | Siberian Husky | 18 | 80 | 24.54 | 10/04/2026 04:23 p. m.
+Barbara Taylor | Jack | Chihuahua | 12 | 56 | 3.68 | 19/04/2026 06:50 p. m.
+Nancy Lopez | Lola | Poodle | 18 | 80 | 15.87 | 29/04/2026 03:09 p. m.
+Benjamin Gonzalez | Bella | German Shepherd | 18 | 80 | 27.55 | 13/04/2026 05:13 p. m.
+Andrew White | Molly | French Bulldog | 18 | 80 | 8.17 | 02/05/2026 06:29 a. m.
+Elizabeth Young | Molly | French Bulldog | 5 | 31 | 9.94 | 11/04/2026 03:33 p. m.
+Harper Jones | Luna | Chiuahua | 4 | 27 | 19.69 | 22/04/2026 03:00 p. m.
+Valeria Young | Bruno | Gold Retiever | 11 | 52 | 12.74 | 18/04/2026 08:01 p. m.
+Robert Jackson | Rocky | French Bulldog | 16 | 72 | 8.43 | 05/05/2026 10:54 a. m.
+Leonardo Martin | Rocky | Siberian Husky | 6 | 35 | 25.43 | 06/05/2026 01:57 p. m.
+Mary Sanchez | Coco | French Bulldog | 8 | 43 | 10.93 | 18/04/2026 06:35 a. m.
+Martina Lopez | Max | Golden Retriever | 18 | 80 | 20.78 | 21/04/2026 03:20 p. m.
+Patricia Miller | Max | French Buldog | 11 | 52 | 11.21 | 10/04/2026 04:59 a. m.
+Charlotte Johnson | Lola | Dachshund | 18 | 80 | 7.72 | 13/04/2026 01:15 p. m.
+matias brown | Zeus | Siberian Huskey | 13 | 60 | 18.26 | 06/05/2026 07:22 a. m.
+Jennifer Johnson | MAX | Siberian Husky | 12 | 56 | 25.51 | 28/04/2026 05:46 a. m.
+Nancy Martinez | Rocky | Chihuahua | 18 | 80 | 3.13 | 14/04/2026 05:36 p. m.
+Valeria Jones | Jack | German Shepear | 18 | 80 | 19.46 | 25/04/2026 10:50 a. m.
+Matias Allen | Zeus | Poodle | 5 | 31 | 13.44 | 12/04/2026 11:32 p. m.
+Sarah White | Rocky | French Bull dog | 12 | 56 | 12.9 | 13/04/2026 04:02 p. m.
+Timothy Perez | Bella | German Shepherd | 18 | 80 | 27.3 | 14/04/2026 03:18 a. m.
+Linda Miller | Max | Golden Retriver | 17 | 76 | 24.97 | 23/04/2026 07:52 a. m.
+Oliver Brown | Daisy | Siberian Husky | 4 | 27 | 22.22 | 09/04/2026 09:32 p. m.
+John Jackson | Cooper | Chihuahua | 6 | 35 | 3.86 | 28/04/2026 06:22 p. m.
+Steven Anderson | Duke | French Buldog | 13 | 60 | 10.27 | 11/04/2026 08:50 a. m.
+emiliano martin | Max | Chihuahua | 7 | 39 | 3.15 | 16/04/2026 04:10 a. m.
+Kenneth Williams | Bella | Siberian Husky | 8 | 43 | 19.74 | 20/04/2026 12:36 a. m.
+Robert Jones | Jack | Beagle | 14 | 64 | 9.36 | 23/04/2026 04:38 p. m.
+Adela Gonzalez | Bella | Siberian Huskey | 4 | 27 | 6.24 | 14/04/2026 10:54 a. m.
+David Johnson | Luna | Poodle | 16 | 72 | 5.47 | 14/04/2026 08:45 p. m.
+Nicolas Rodriguez | Daisy | Gold Retiever | 18 | 80 | 16.75 | 15/04/2026 02:21 p. m.
+Elizabeth Perez | Lola | German Shepherd | 18 | 80 | 20.5 | 10/04/2026 04:20 p. m.
+Linda Wright | Bruno | French Buldog | 2 | 19 | 10.2 | 07/05/2026 12:30 p. m.
+Susan Hernandez | Toby | golden retriever | 16 | 72 | 24.33 | 15/04/2026 11:40 p. m.
+Michael King | Duke | German Sheperd | 18 | 80 | 6.41 | 02/05/2026 05:55 p. m.
+Harper King | Jack | French Bulldog | 18 | 80 | 9.14 | 29/04/2026 07:27 p. m.
+DANIELA RODRIGUEZ | Bruno | Golden Retriever | 10 | 48 | 29.02 | 18/04/2026 04:08 p. m.
+Oliver Torres | Daisy | French Bulldog | 18 | 80 | 13.88 | 06/05/2026 07:45 p. m.
+Ximena Anderson | Thor | Beagle | 0 | 0 | 10.65 | 05/05/2026 03:53 p. m.
+Charles Wright | Luna | Dachshund | 18 | 80 | 9.16 | 19/04/2026 11:24 p. m.
+Linda Lopez | Molly | Poodle | 18 | 80 | 17.87 | 04/05/2026 06:57 a. m.
+Emma Scott | Molly | Chihuahua | 18 | 80 | 3.51 | 06/05/2026 08:47 a. m.
+Isabella Anderson | Coco | Beagle | 18 | 80 | 11.91 | 15/04/2026 06:16 a. m.
+Mia Thompson | Bella | Golden Retriever | 4 | 27 | 23.46 | 17/04/2026 06:57 a. m.
+Luciana Thomas | Thor | French Bulldog | 18 | 80 | 8.66 | 28/04/2026 04:21 a. m.
+Ethan Smith | Bruno | Dachshund | 18 | 80 | 8.38 | 07/05/2026 02:10 a. m.
+Nicolas Lopez | Molly | beagle | 7 | 39 | 11.62 | 03/05/2026 12:56 p. m.
+Thomas Sanchez | Max | Poodle | 18 | 80 | 10.92 | 03/05/2026 01:19 a. m.
+william scott | Daisy | Beagle | 18 | 80 | 14.25 | 02/05/2026 10:59 a. m.
+George Sanchez | Duke | Beagle | 18 | 80 | 10.16 | 24/04/2026 06:46 a. m.
+Ricardo Taylor | Molly | Poodle | 2 | 19 | 16.69 | 27/04/2026 11:55 p. m.
+Gabriela Smith | Luna | Chihuahua | 18 | 80 | 2.91 | 03/05/2026 09:08 p. m.
+William Gonzalez | Coco | Golden Retriever | 17 | 76 | 29.1 | 20/04/2026 05:31 p. m.
+Camila Perez | Thor | Gold Retiever | 18 | 80 | 7.81 | 05/05/2026 04:46 a. m.
+Jessica Thomas | Bruno | Beagle | 18 | 80 | 10.48 | 11/04/2026 06:57 a. m.
+Adela Jackson | Cooper | Dachshund | 18 | 80 | 8.69 | 24/04/2026 05:00 p. m.
+Matias Miller | Bruno | Chihuahua | 5 | 31 | 1.81 | 27/04/2026 06:09 p. m.
+Mariana Perez | Molly | chiuahua | 18 | 80 | 14.64 | 12/04/2026 11:14 a. m.
+Matthew Jones | MAX | Beagle | 3 | 23 | 13.8 | 27/04/2026 09:22 a. m.
+daniela smith | Max | Siberian Husky | 18 | 80 | 25.4 | 20/04/2026 03:47 a. m.
+Victoria Brown | Thor | Golden Retriever | 12 | 56 | 20.73 | 25/04/2026 08:19 a. m.
+Steven Lopez | Coco | German Shepear | 17 | 76 | 5.86 | 14/04/2026 03:30 a. m.
+Donald Martinez | Daisy | Dachshund | 6 | 35 | 9.14 | 10/04/2026 04:48 a. m.
+Daniel Martinez | Molly | Dachshund | 18 | 80 | 8.12 | 14/04/2026 06:59 a. m.
+Fernando Thomas | Bella | French Bulldog | 18 | 80 | 10.59 | 23/04/2026 11:27 p. m.
+RICHARD MARTIN | Luna | Beagle | 18 | 80 | 13.34 | 21/04/2026 08:33 p. m.
+George Wilson | Lola | Beagle | 18 | 80 | 14.18 | 16/04/2026 08:16 p. m.
+Andrew Wright | Toby | Chihuahua | 4 | 27 | 1.55 | 28/04/2026 04:28 a. m.
+Brian Perez | Max | Dachshund | 7 | 39 | 6.22 | 17/04/2026 11:15 p. m.
+Diego Wright | Lola | Poodle | 17 | 76 | 18.87 | 26/04/2026 11:32 p. m.
+Charlotte Scott | Bruno | Beagle | 18 | 80 | 8.5 | 23/04/2026 04:01 p. m.
+Kevin Smith | Luna | German Shepherd | 18 | 80 | 27.02 | 09/04/2026 07:54 p. m.
+Nicolas Thomas | Daisy | Poodle | 2 | 19 | 9.84 | 15/04/2026 07:00 a. m.
+Linda Young | Lola | Dachshund | 5 | 31 | 4.32 | 19/04/2026 02:54 a. m.
+NICOLAS BROWN | Jack | Poodle | 18 | 80 | 16.91 | 30/04/2026 01:57 a. m.
+Karen Brown | Daisy | german sheperd | 8 | 43 | 14.98 | 29/04/2026 06:16 p. m.
+Charles Thomas | Daisy | Beagle | 7 | 39 | 13.84 | 20/04/2026 01:41 a. m.
+Edward Garcia | Bella | Chihuahua | 18 | 80 | 3.59 | 07/05/2026 10:48 a. m.
+Victoria Thompson | Thor | Beagle | 2 | 19 | 14.95 | 26/04/2026 02:53 a. m.
+Matthew Brown | Bella | Siberian Huskey | 17 | 76 | 12.67 | 15/04/2026 06:19 p. m.
+Sofía Thomas | Jack | Golden Retriever | 18 | 80 | 26.13 | 29/04/2026 04:34 a. m.
+Harper Scott | Jack | German Shepherd | 10 | 48 | 27.44 | 06/05/2026 11:12 a. m.
+Adela Garcia | Rocky | Siberian Husky | 1 | 13 | 26.14 | 13/04/2026 02:11 a. m.
+John Williams | Bella | Beagle | 18 | 80 | 10.56 | 12/04/2026 10:43 p. m.
+Joaquin Thompson | Jack | Chihuahua | 2 | 19 | 3.85 | 25/04/2026 12:46 a. m.
+Martina Miller | Daisy | Beagle | 13 | 60 | 13.53 | 20/04/2026 02:07 p. m.
+Donald Brown | LUNA | Golden Retriever | 9 | 47 | 20.17 | 12/04/2026 10:36 a. m.
+Jeffrey Anderson | Thor | French Bulldog | 2 | 19 | 9.55 | 18/04/2026 07:20 p. m.
+Karen Young | Zeus | Poodle | 6 | 35 | 9.28 | 04/05/2026 01:31 a. m.
+Robert Williams | Bruno | Siberian Husky | 10 | 48 | 26.16 | 10/04/2026 06:12 p. m.
+Patricia Thompson | Max | Chihuahua | 13 | 60 | 3.1 | 14/04/2026 08:55 a. m.
+Mary Smith | Duke | French Bulldog | 17 | 76 | 12.17 | 17/04/2026 01:25 a. m.
+Sarah Gonzalez | Bruno | French Buldog | 12 | 56 | 10.14 | 16/04/2026 08:07 a. m.
+Martina Davis | Lola | French Bull dog | 12 | 56 | 9.8 | 21/04/2026 09:20 a. m.
+Adela White | Daisy | Siberian Husky | 18 | 80 | 25.07 | 14/04/2026 02:21 a. m.
+CHARLES SCOTT | Bella | Poodle | 18 | 80 | 5.53 | 28/04/2026 11:22 a. m.
+Beatriz Wilson | duke | Golden Retriever | 18 | 80 | 20.75 | 22/04/2026 11:00 a. m.
+Victoria Jones | Lola | Chiuahua | 12 | 56 | 7.4 | 17/04/2026 05:30 p. m.
+Christopher Rodriguez | Molly | beaggle | 9 | 47 | 13.52 | 18/04/2026 07:15 a. m.
+Linda Scott | Thor | Golden Retriever | 5 | 31 | 27.05 | 05/05/2026 06:44 p. m.
+Steven Jones | Thor | Poodle | 18 | 80 | 6.96 | 12/04/2026 05:09 p. m.
+LIAM THOMPSON | Toby | Golden Retriever | 8 | 43 | 23.88 | 02/05/2026 04:04 a. m.
+Anthony Brown | Rocky | Golden Retriever | 1 | 13 | 26.75 | 03/05/2026 06:23 p. m.
+Isabella Garcia | COOPER | Beagle | 18 | 80 | 11.77 | 20/04/2026 12:10 p. m.
+Anthony Martinez | Coco | Siberian Husky | 13 | 60 | 19.81 | 23/04/2026 08:21 p. m.
+Daniela Wilson | Lola | Golden Retriever | 18 | 80 | 28.64 | 10/04/2026 05:37 a. m.
+Oliver Harris | Cooper | Beagle | 11 | 52 | 11.6 | 21/04/2026 07:43 a. m.
+Victoria Wilson | Max | Poodle | 6 | 35 | 5.33 | 30/04/2026 10:33 a. m.
+Christopher Brown | Daisy | Golden Retriever | 5 | 31 | 26.93 | 21/04/2026 11:56 p. m.
+Sarah Thompson | Max | Golden Retriever | 15 | 68 | 29.57 | 27/04/2026 09:32 a. m.
+Joaquin Wilson | Thor | Poodle | 18 | 80 | 9.04 | 03/05/2026 01:28 a. m.
+Emiliano Wright | Max | Siberian Husky | 18 | 80 | 18.74 | 26/04/2026 07:13 p. m.
+Victoria Harris | Toby | Beagle | 18 | 80 | 9.58 | 28/04/2026 08:57 a. m.
+Gabriela Gonzalez | duke | Siberian Husky | 18 | 80 | 21.22 | 12/04/2026 03:07 p. m.
+Joseph Davis | Lola | golden retriever | 1 | 13 | 26.04 | 22/04/2026 12:25 p. m.
+David Torres | Cooper | Beagle | 18 | 80 | 13.95 | 15/04/2026 03:54 p. m.
+Matthew Miller | Bella | podle | 18 | 80 | 13.56 | 01/05/2026 03:12 p. m.
+Michael Perez | Coco | French Bulldog | 0 | 0 | 10.44 | 24/04/2026 03:01 a. m.
+Anthony Jackson | Toby | beagle | 18 | 80 | 10.12 | 28/04/2026 08:04 p. m.
+Ricardo Young | Rocky | French Bulldog | 15 | 68 | 11.16 | 02/05/2026 11:06 a. m.
+Michael Jones | Cooper | Dachshund | 18 | 80 | 8.89 | 15/04/2026 07:34 p. m.
+Kenneth White | Max | Poodle | 18 | 80 | 10.09 | 20/04/2026 01:18 a. m.
+Adela Martin | Bella | Beagle | 18 | 80 | 12.53 | 13/04/2026 01:57 p. m.
+Ronald Martinez | Zeus | German Shepherd | 18 | 80 | 19.11 | 18/04/2026 03:25 a. m.
+MIA GONZALEZ | Cooper | Dachshund | 18 | 80 | 7.79 | 18/04/2026 09:25 p. m.
+Andrew Smith | Molly | Beagle | 18 | 80 | 12.81 | 15/04/2026 01:55 a. m.
+Edward Harris | Toby | Beagle | 13 | 60 | 8.23 | 05/05/2026 05:57 p. m.
+Robert Garcia | DUKE | Poodle | 13 | 60 | 15.63 | 07/05/2026 04:56 a. m.
+Elizabeth Jones | Lola | Golden Retriever | 16 | 72 | 26.11 | 30/04/2026 04:44 a. m.
+RONALD HARRIS | JACK | Golden Retriever | 1 | 13 | 20.41 | 17/04/2026 07:23 a. m.
+Martina Hernandez | Cooper | Chihuahua | 11 | 52 | 3.51 | 24/04/2026 03:14 p. m.
+Timothy Martinez | Max | Golden Retriever | 16 | 72 | 27.71 | 21/04/2026 08:53 a. m.
+Victoria Martin | Molly | Podle | 12 | 56 | 5.27 | 27/04/2026 11:54 a. m.
+Santiago Jackson | Rocky | German Shepherd | 18 | 80 | 24.29 | 11/04/2026 07:29 p. m.
+Victoria Young | Duke | Siberian Huskey | 18 | 80 | 5.75 | 16/04/2026 04:46 p. m.
+Victoria Johnson | Bella | Chihuahua | 18 | 80 | 3.63 | 20/04/2026 07:41 a. m.
+Christopher Taylor | Bruno | Beagle | 18 | 80 | 12.8 | 19/04/2026 10:06 a. m.
+Paul Jackson | Duke | Golden Retrevier | 10 | 48 | 24.46 | 20/04/2026 08:49 p. m.
+Ximena Rodriguez | Max | Poodle | 5 | 31 | 4.2 | 23/04/2026 03:58 a. m.
+Camila King | Toby | French Bulldog | 18 | 80 | 8.27 | 01/05/2026 06:02 p. m.
+Adela Miller | Coco | Dachshund | 9 | 47 | 5.99 | 27/04/2026 06:35 p. m.
+paul thomas | DAISY | French Bulldog | 7 | 39 | 9.92 | 20/04/2026 02:56 a. m.
+emma miller | Toby | Beaggle | 15 | 68 | 9.04 | 03/05/2026 02:24 a. m.
+Sebastian Martin | Thor | Golden Retriever | 18 | 80 | 24.21 | 28/04/2026 01:25 p. m.
+Jason Allen | Coco | German Shepherd | 18 | 80 | 19.57 | 17/04/2026 01:53 p. m.
+Amelia Brown | Toby | German Shepherd | 18 | 80 | 29.09 | 20/04/2026 02:17 a. m.
+Victoria Lopez | Coco | Golden Retrevier | 18 | 80 | 20.53 | 19/04/2026 03:52 a. m.
+Linda Jones | Toby | German Shepherd | 4 | 27 | 22.61 | 23/04/2026 07:22 a. m.
+martina king | Bruno | German Shepherd | 4 | 27 | 18.58 | 12/04/2026 01:52 p. m.
+sofía martinez | Max | Golden Retriever | 18 | 80 | 26.05 | 18/04/2026 10:25 a. m.
+Richard Gonzalez | Daisy | Chihuahua | 16 | 72 | 2.57 | 25/04/2026 03:57 p. m.
+Anthony Torres | Thor | Siberian Huski | 16 | 72 | 9.92 | 27/04/2026 05:59 a. m.
+Liam Hernandez | Bella | Siberian Husky | 2 | 19 | 19.22 | 03/05/2026 10:17 p. m.
+Joseph Thompson | Coco | Chihuahua | 18 | 80 | 1.64 | 27/04/2026 02:59 p. m.
+Isabella Gonzalez | Lola | Chiuahua | 4 | 27 | 10.04 | 22/04/2026 10:52 p. m.
+Luciana Davis | Duke | Siberian Huski | 14 | 64 | 6.65 | 18/04/2026 03:46 p. m.
+Nancy Taylor | Bruno | Dachshund | 18 | 80 | 7.95 | 18/04/2026 09:06 a. m.
+Sarah Wilson | Jack | Poodle | 17 | 76 | 16.28 | 26/04/2026 07:17 p. m.
+Luciana Martinez | Daisy | Golden Retriever | 18 | 80 | 20.39 | 04/05/2026 03:58 p. m.
+Patricia King | Toby | Beagle | 18 | 80 | 8.32 | 05/05/2026 07:58 p. m.
+Isabella White | MAX | Siberian Husky | 18 | 80 | 26.75 | 17/04/2026 06:53 p. m.
+Sarah Harris | Thor | Siberian Husky | 18 | 80 | 25.24 | 06/05/2026 11:10 a. m.
+Joaquin Martinez | Jack | Siberian Husky | 18 | 80 | 21.49 | 18/04/2026 04:40 a. m.
+Camila Thomas | Molly | Poodle | 18 | 80 | 8.47 | 06/05/2026 06:31 a. m.
+KEVIN THOMPSON | Toby | Poodle | 14 | 64 | 5.95 | 16/04/2026 08:27 a. m.
+timothy hernandez | Molly | Siberian Husky | 11 | 52 | 19.2 | 06/05/2026 01:45 p. m.
+Brian Wilson | Luna | Golden Retriever | 17 | 76 | 21.63 | 14/04/2026 10:12 a. m.
+Ethan Thomas | Molly | CHIHUAHUA | 18 | 80 | 2.57 | 25/04/2026 11:47 p. m.
+Susan Garcia | Coco | german shepherd | 9 | 47 | 19.69 | 29/04/2026 03:17 p. m.
+Beatriz Thomas | Toby | Golden Retriver | 11 | 52 | 21.23 | 28/04/2026 10:41 p. m.
+Jeffrey Martin | Thor | Siberian Husky | 5 | 31 | 22.12 | 26/04/2026 05:34 p. m.
+Charles Wilson | Molly | Golden Retriever | 18 | 80 | 24.25 | 13/04/2026 02:29 a. m.
+Luciana Gonzalez | Bruno | Chihuahua | 11 | 52 | 3.93 | 25/04/2026 09:27 a. m.
+Mia Jones | Coco | French Bulldog | 6 | 35 | 12.4 | 28/04/2026 11:46 a. m.
+Susan Martinez | Bruno | Siberian Husky | 16 | 72 | 24.57 | 06/05/2026 09:44 a. m.
+emma lopez | Toby | Beagle | 3 | 23 | 9.82 | 11/04/2026 09:55 p. m.
+Ethan Young | Toby | Dachshund | 0 | 0 | 8.26 | 29/04/2026 03:18 a. m.
+Christopher Sanchez | Coco | Dashchund | 18 | 80 | 15.79 | 21/04/2026 03:37 a. m.
+Daniel Williams | Luna | Podle | 18 | 80 | 11.32 | 05/05/2026 06:19 a. m.
+David Young | Molly | Beagle | 18 | 80 | 10.94 | 05/05/2026 04:35 p. m.
+Javier Miller | Molly | Golden Retriever | 13 | 60 | 28.34 | 26/04/2026 12:56 a. m.
+Alejandro Wright | Duke | Siberian Husky | 18 | 80 | 22.89 | 30/04/2026 06:09 p. m.
+Oliver Allen | Lola | Golden Retriever | 18 | 80 | 23.46 | 20/04/2026 10:23 a. m.
+Charles Allen | Bruno | French Bulldog | 18 | 80 | 8.04 | 04/05/2026 02:34 a. m.
+benjamin king | Rocky | German Shepherd | 2 | 19 | 20.89 | 26/04/2026 09:33 a. m.
+Daniela Miller | Bruno | Siberian Husky | 16 | 72 | 23.88 | 26/04/2026 08:16 p. m.
+Adela Allen | Bella | German Shepherd | 11 | 52 | 19.14 | 04/05/2026 01:23 p. m.
+Steven Miller | Luna | Siberian Husky | 7 | 39 | 26.77 | 25/04/2026 02:55 a. m.
+Amelia King | Rocky | Chihuahua | 3 | 23 | 1.51 | 22/04/2026 02:32 p. m.
+Barbara Brown | Jack | Golden Retriever | 4 | 27 | 25.07 | 13/04/2026 05:14 p. m.
+BENJAMIN JACKSON | bruno | Dachshund | 14 | 64 | 8.66 | 20/04/2026 04:54 a. m.
+Isabella Wilson | JACK | Dachshun | 3 | 23 | 19.84 | 24/04/2026 12:01 a. m.
+Paul Thompson | Lola | French Bulldog | 11 | 52 | 10.67 | 30/04/2026 12:15 a. m.
+Kenneth Miller | Toby | Poodle | 18 | 80 | 13.67 | 14/04/2026 03:53 p. m.
+Steven Thomas | Cooper | Beagle | 18 | 80 | 8.17 | 12/04/2026 10:22 a. m.
+Lucas Wright | Jack | Poodle | 15 | 68 | 10.72 | 12/04/2026 07:03 p. m.
+Amelia Miller | Daisy | French Bulldog | 18 | 80 | 9.97 | 29/04/2026 11:57 p. m.
+Sebastian Miller | Zeus | Beaggle | 18 | 80 | 12.51 | 16/04/2026 08:19 a. m.
+Victoria Scott | Lola | Golden Retriever | 18 | 80 | 20.47 | 25/04/2026 07:37 a. m.
+Nancy Perez | Daisy | Siberian Husky | 0 | 0 | 23.45 | 15/04/2026 04:45 p. m.
+Isabella Perez | Luna | French Bulldog | 7 | 39 | 8.81 | 27/04/2026 06:13 p. m.
+Mariana Young | Duke | Golden Retrevier | 18 | 80 | 22.39 | 11/04/2026 06:14 a. m.
+Sarah Miller | Bruno | Golden Retriever | 18 | 80 | 26.43 | 06/05/2026 09:52 a. m.
+Beatriz Torres | Luna | German Shepherd | 9 | 47 | 20.5 | 26/04/2026 04:57 p. m.
+Mariana Hernandez | Thor | French Bulldog | 18 | 80 | 11.49 | 21/04/2026 01:36 a. m.
+Jennifer Taylor | JACK | Dachshund | 17 | 76 | 8.11 | 21/04/2026 08:37 a. m.
+Emma Wilson | Bruno | French Bulldog | 2 | 19 | 9.79 | 14/04/2026 10:08 a. m.
+Sofía Sanchez | Luna | Poodle | 18 | 80 | 15.29 | 20/04/2026 12:44 p. m.
+Adela Lopez | Thor | Siberian Husky | 18 | 80 | 26.21 | 20/04/2026 12:10 p. m.
+Amelia Wilson | Thor | Chihuahua | 9 | 47 | 2.54 | 22/04/2026 09:25 p. m.
+Valeria Rodriguez | Luna | Chihuahua | 0 | 0 | 2.82 | 14/04/2026 02:59 p. m.
+Nancy Martin | thor | Beagle | 7 | 39 | 13.09 | 29/04/2026 08:39 p. m.
+Steven Gonzalez | max | Siberian Husky | 7 | 39 | 24.8 | 02/05/2026 04:57 a. m.
+Benjamin Johnson | Molly | Chihuahua | 18 | 80 | 1.72 | 15/04/2026 02:00 a. m.
+Thomas Allen | Daisy | Siberian Huski | 9 | 47 | 8.98 | 03/05/2026 02:19 p. m.
+Harper Perez | Coco | Beagle | 16 | 72 | 9.91 | 26/04/2026 06:59 p. m.
+Beatriz Taylor | Duke | Siberian Husky | 4 | 27 | 23.39 | 14/04/2026 12:12 a. m.
+Amelia Smith | Bruno | Beagle | 18 | 80 | 9.23 | 30/04/2026 07:25 a. m.
+Emma Gonzalez | Toby | Dachshund | 12 | 56 | 9.29 | 03/05/2026 01:39 a. m.
+Adela Smith | Lola | Chihuaua | 18 | 80 | 12.85 | 01/05/2026 05:39 a. m.
+Emma Smith | Lola | Beagle | 14 | 64 | 13.41 | 25/04/2026 06:22 p. m.
+Mark Taylor | Daisy | chihuahua | 8 | 43 | 2.77 | 19/04/2026 04:39 a. m.
+Diego Thomas | Lola | siberian husky | 18 | 80 | 25.26 | 23/04/2026 03:00 a. m.
+Ricardo Torres | Jack | French Bulldog | 0 | 0 | 11.57 | 19/04/2026 06:13 p. m.
+Camila Taylor | Bella | siberian husky | 15 | 68 | 24.32 | 21/04/2026 05:28 p. m.
+Oliver Garcia | Rocky | Dachshund | 18 | 80 | 6.51 | 22/04/2026 04:53 p. m.
+Ximena Thompson | Rocky | Poodle | 10 | 48 | 11.46 | 22/04/2026 08:35 p. m.
+Sebastian Sanchez | Duke | Beagle | 15 | 68 | 13.95 | 04/05/2026 04:48 p. m.
+SARAH DAVIS | Bella | German Shepherd | 1 | 13 | 28.06 | 25/04/2026 08:22 a. m.
+Amelia Lopez | Max | German Shepherd | 13 | 60 | 25.24 | 15/04/2026 12:56 p. m.
+Barbara Miller | thor | Chiuahua | 5 | 31 | 12.4 | 22/04/2026 09:00 a. m.
+Ximena Torres | Jack | Dachshund | 18 | 80 | 4.02 | 02/05/2026 03:27 a. m.
+Steven King | Max | French Bull dog | 17 | 76 | 12.42 | 26/04/2026 10:16 p. m.
+christopher allen | Toby | SIBERIAN HUSKEY | 18 | 80 | 19.11 | 17/04/2026 12:33 a. m.
+Noah Smith | LUNA | Golden Retrevier | 8 | 43 | 28.6 | 06/05/2026 02:09 a. m.
+Benjamin Taylor | Thor | Beagle | 18 | 80 | 12.66 | 15/04/2026 11:05 a. m.
+Valeria Harris | zeus | Siberian Husky | 18 | 80 | 22.82 | 07/05/2026 01:20 p. m.
+Joseph Miller | Max | Chihuaua | 3 | 23 | 6.88 | 28/04/2026 10:16 p. m.
+Mia Sanchez | Thor | German Shepherd | 18 | 80 | 22.34 | 01/05/2026 04:58 a. m.
+Amelia Thomas | Zeus | Golden Retriever | 14 | 64 | 26.51 | 22/04/2026 02:13 p. m.
+Nicolas Anderson | Luna | French Bulldog | 16 | 72 | 10.72 | 03/05/2026 01:00 p. m.
+Mateo Thompson | Cooper | German Shepherd | 3 | 23 | 20.63 | 19/04/2026 10:44 p. m.
+Benjamin Jones | Zeus | Dachshund | 18 | 80 | 8.63 | 17/04/2026 04:20 p. m.
+Matthew Taylor | Bella | French Bulldog | 18 | 80 | 9.2 | 06/05/2026 10:31 a. m.
+Donald Harris | Luna | Beagle | 18 | 80 | 11.69 | 27/04/2026 09:58 a. m.
+BARBARA HARRIS | Bruno | Dachshund | 9 | 47 | 9.36 | 18/04/2026 10:25 p. m.
+Steven White | Bruno | Dachshund | 14 | 64 | 9.01 | 05/05/2026 06:20 p. m.
+Ricardo Thomas | Bella | Dachshund | 18 | 80 | 5.91 | 29/04/2026 05:28 p. m.
+Martina Rodriguez | Toby | Chihuahua | 18 | 80 | 1.64 | 02/05/2026 03:02 a. m.
+Michael Thompson | Coco | Golden Retriever | 4 | 27 | 21.14 | 18/04/2026 10:54 a. m.
+Susan Brown | Rocky | Siberian Husky | 2 | 19 | 16.96 | 26/04/2026 01:16 a. m.
+Samuel Wright | Molly | Dachshun | 17 | 76 | 8.61 | 20/04/2026 05:09 p. m.
+Fernando Young | Cooper | Chihuahua | 8 | 43 | 2.51 | 11/04/2026 10:46 a. m.
+Mariana Scott | Daisy | German Shepherd | 7 | 39 | 19.38 | 22/04/2026 12:06 p. m.
+Lucas Perez | Bella | Beagle | 14 | 64 | 12.16 | 11/04/2026 04:07 p. m.
+Santiago Wright | Toby | Poodle | 10 | 48 | 7.76 | 17/04/2026 04:14 p. m.
+Mary Johnson | Daisy | Dachshund | 18 | 80 | 7.42 | 15/04/2026 03:04 a. m.
+Luciana Martin | Luna | French Bulldog | 18 | 80 | 12.71 | 15/04/2026 07:45 p. m.
+Mia Anderson | zeus | DACHSHUND | 12 | 56 | 5.58 | 25/04/2026 07:27 a. m.
+Jason Davis | Daisy | Golden Retriever | 18 | 80 | 27.46 | 01/05/2026 03:49 a. m.
+Valeria White | jack | Siberian Huski | 3 | 23 | 11.45 | 25/04/2026 08:10 a. m.
+Diego Miller | Rocky | Beagle | 16 | 72 | 12.94 | 10/04/2026 03:30 p. m.
+Liam Anderson | Duke | German Shepherd | 16 | 72 | 23.97 | 05/05/2026 03:13 a. m.
+Susan Williams | Cooper | Golden Retriever | 18 | 80 | 26.58 | 06/05/2026 02:11 a. m.
+Karen Jackson | Coco | Beagle | 6 | 35 | 11.8 | 01/05/2026 01:32 p. m.
+Richard Johnson | Bella | Siberian Husky | 18 | 80 | 22.16 | 22/04/2026 02:00 p. m.
+Beatriz Sanchez | Coco | German Shepherd | 13 | 60 | 22.79 | 01/05/2026 08:38 a. m.
+Donald Wright | Luna | chihuahua | 18 | 80 | 1.65 | 21/04/2026 11:56 a. m.
+Sofía Williams | Coco | German Shepherd | 18 | 80 | 27.85 | 29/04/2026 11:00 a. m.
+Thomas Lopez | Bruno | Poodle | 1 | 13 | 5.26 | 23/04/2026 08:10 a. m.
+Diego Sanchez | Zeus | Poodle | 18 | 80 | 11.88 | 15/04/2026 12:05 a. m.
+Ximena Wilson | Jack | Golden Retriever | 9 | 47 | 22.85 | 27/04/2026 09:07 a. m.
+Edward Rodriguez | Bruno | Poodle | 10 | 48 | 16.66 | 25/04/2026 11:16 a. m.
+Daniela Thompson | Cooper | Chihuahua | 18 | 80 | 2.49 | 19/04/2026 03:08 p. m.
+Linda Smith | Bella | Golden Retriever | 10 | 48 | 25.62 | 13/04/2026 06:36 p. m.
+Gabriela Hernandez | Molly | Pudle | 17 | 76 | 15.78 | 20/04/2026 11:16 a. m.
+Thomas Harris | Daisy | Beagle | 1 | 13 | 11.43 | 25/04/2026 02:42 p. m.
+Karen Miller | Thor | BEAGLE | 18 | 80 | 13.89 | 12/04/2026 11:43 a. m.
+Nancy Garcia | Luna | German Shepherd | 1 | 13 | 22.41 | 10/04/2026 12:17 a. m.
+David Scott | Bruno | Beagle | 8 | 43 | 12.27 | 25/04/2026 02:16 a. m.
+Mariana Lopez | Toby | Poodle | 18 | 80 | 5.14 | 22/04/2026 07:22 p. m.
+Karen Martinez | Coco | Poodle | 10 | 48 | 8.75 | 02/05/2026 12:39 a. m.
+Oliver Smith | Daisy | Dachshund | 18 | 80 | 4.16 | 12/04/2026 06:55 p. m.
+Emma Davis | Zeus | Beagle | 11 | 52 | 8.84 | 06/05/2026 09:52 p. m.
+Nancy Torres | Coco | Poodle | 18 | 80 | 18.63 | 22/04/2026 11:35 p. m.
+Ronald Anderson | Rocky | Dachshund | 13 | 60 | 8.89 | 22/04/2026 05:34 p. m.
+Matthew Perez | Max | Dachshun | 18 | 80 | 9.09 | 23/04/2026 05:44 a. m.
+fernando martin | Molly | German Shepherd | 0 | 0 | 26.55 | 22/04/2026 07:44 p. m.
+Donald Johnson | Toby | Beagle | 10 | 48 | 9.47 | 26/04/2026 01:03 p. m.
+Mia Young | THOR | Golden Retriever | 18 | 80 | 26.46 | 21/04/2026 01:47 p. m.
+Jason Wright | Jack | Siberian Husky | 13 | 60 | 21.75 | 26/04/2026 10:26 a. m.
+Lucas Johnson | Bruno | Golden Retriever | 7 | 39 | 22.6 | 10/04/2026 04:13 a. m.
+Edward Young | daisy | French Bulldog | 18 | 80 | 13.84 | 14/04/2026 10:59 p. m.
+Paul Brown | Rocky | Chihuahua | 3 | 23 | 3.04 | 24/04/2026 12:12 p. m.
+Sofía Rodriguez | Rocky | chihuahua | 11 | 52 | 3.12 | 19/04/2026 05:23 p. m.
+Joseph Anderson | COCO | dachshund | 18 | 80 | 8.75 | 14/04/2026 02:52 a. m.
+Nancy Thompson | Molly | Beagle | 18 | 80 | 8.34 | 19/04/2026 09:03 a. m.
+alejandro allen | Thor | French Bulldog | 18 | 80 | 13.77 | 10/04/2026 12:00 p. m.
+Lucas Scott | Coco | Beagle | 10 | 48 | 8.21 | 23/04/2026 12:31 a. m.
+Edward Thompson | Zeus | Beagle | 18 | 80 | 9.93 | 17/04/2026 11:42 a. m.
+Paul White | Zeus | Poodle | 13 | 60 | 8.85 | 04/05/2026 04:54 p. m.
+Jason Brown | Cooper | German Shepherd | 18 | 80 | 29.53 | 23/04/2026 10:38 p. m.
+CHARLOTTE THOMPSON | Bruno | Golden Retriever | 15 | 68 | 24.73 | 26/04/2026 11:53 p. m.
+Daniela Johnson | Toby | Golden Retriever | 15 | 68 | 28.78 | 16/04/2026 03:16 p. m.
+Joshua Harris | Max | Golden Retriever | 18 | 80 | 29.84 | 07/05/2026 01:41 a. m.
+Martina Thomas | Bruno | German Shepherd | 11 | 52 | 20.11 | 03/05/2026 05:53 p. m.
+Beatriz Lopez | Bella | German Shepherd | 9 | 47 | 26.17 | 16/04/2026 08:30 p. m.
+Mark Rodriguez | Zeus | Golden Retriever | 4 | 27 | 26.76 | 21/04/2026 10:11 p. m.
+Timothy Wright | Rocky | Beagle | 17 | 76 | 10.62 | 21/04/2026 05:44 a. m.
+David Gonzalez | Bruno | Chihuahua | 18 | 80 | 3.55 | 17/04/2026 07:28 p. m.
+Sarah Young | Toby | German Shepherd | 5 | 31 | 19.74 | 13/04/2026 11:39 a. m.
+Sofía Gonzalez | Lola | Dachshund | 4 | 27 | 9.89 | 05/05/2026 11:29 p. m.
+Brian Williams | Cooper | Chihuahua | 18 | 80 | 2.28 | 16/04/2026 10:42 a. m.
+Noah Rodriguez | Coco | Beagle | 13 | 60 | 9.68 | 19/04/2026 06:19 a. m.
+Kevin King | Coco | Dachshund | 2 | 19 | 4.04 | 03/05/2026 04:54 a. m.
+Sarah Garcia | Duke | Beagle | 6 | 35 | 9.38 | 15/04/2026 02:17 p. m.
+Karen King | Jack | beagle | 9 | 47 | 10.32 | 23/04/2026 09:57 p. m.
+luciana wright | Toby | CHIHUAHUA | 18 | 80 | 3.6 | 27/04/2026 09:55 p. m.
+Mary Brown | Rocky | Beaggle | 18 | 80 | 14.95 | 24/04/2026 06:10 p. m.
+Ethan Allen | Max | Chihuahua | 7 | 39 | 2.09 | 23/04/2026 04:59 p. m.
+William Perez | Zeus | GOLDEN RETREVIER | 13 | 60 | 29.65 | 23/04/2026 02:45 p. m.
+Barbara Garcia | Coco | Golden Retriever | 18 | 80 | 20.61 | 25/04/2026 07:43 a. m.
+Gabriela Garcia | Max | Siberian Husky | 8 | 43 | 24.72 | 18/04/2026 11:18 a. m.
+MARTINA GARCIA | Jack | Poodle | 12 | 56 | 13.96 | 30/04/2026 07:17 p. m.
+noah scott | Luna | German Shepherd | 5 | 31 | 20.93 | 14/04/2026 03:44 a. m.
+Felipe Hernandez | Rocky | Begle | 18 | 80 | 14.38 | 27/04/2026 02:30 p. m.
+Charlotte Gonzalez | Zeus | Poodle | 3 | 23 | 13.51 | 18/04/2026 01:00 a. m.
+Jennifer Thompson | Lola | French Bulldog | 8 | 43 | 12.43 | 02/05/2026 03:30 p. m.
+alejandro brown | rocky | Siberian Husky | 18 | 80 | 17.46 | 25/04/2026 09:03 p. m.
+Benjamin Wright | Bruno | Chihuahua | 14 | 64 | 3.47 | 25/04/2026 10:15 p. m.
+Javier Brown | Bruno | Golden Retriever | 2 | 19 | 29.57 | 13/04/2026 04:36 p. m.
+Mark Anderson | Daisy | German Shepherd | 12 | 56 | 27.5 | 21/04/2026 11:27 p. m.
+Elizabeth Anderson | Cooper | Dachshund | 7 | 39 | 6.41 | 17/04/2026 03:04 p. m.
+liam brown | Rocky | Dachshund | 5 | 31 | 4.98 | 22/04/2026 04:41 p. m.
+Matthew Lopez | Rocky | Dachshund | 16 | 72 | 5.28 | 12/04/2026 02:05 a. m.
+Alejandro Martin | Zeus | Dachshund | 18 | 80 | 4.01 | 29/04/2026 09:42 a. m.
+Mia Harris | Cooper | Golden Retriver | 18 | 80 | 26.81 | 19/04/2026 07:11 p. m.
+Alejandro Scott | Toby | Pudle | 10 | 48 | 6.74 | 26/04/2026 09:30 p. m.
+Emma Hernandez | bruno | Chihuahua | 18 | 80 | 3.51 | 20/04/2026 02:47 a. m.
+Victoria Gonzalez | Lola | Beagle | 0 | 0 | 14.14 | 12/04/2026 03:46 p. m.
+Ronald Davis | Lola | German Shepherd | 18 | 80 | 27.28 | 24/04/2026 04:18 a. m.
+Donald Jones | Duke | Beagle | 13 | 60 | 14.79 | 07/05/2026 09:33 a. m.
+Kenneth Hernandez | Zeus | German Shepherd | 7 | 39 | 23.71 | 16/04/2026 11:43 a. m.
+Mia Davis | Coco | French Buldog | 18 | 80 | 12.23 | 30/04/2026 12:04 p. m.
+Charlotte Lopez | Cooper | Dachshund | 18 | 80 | 7.64 | 18/04/2026 05:26 p. m.
+Thomas Young | Jack | Siberian Husky | 18 | 80 | 19.34 | 05/05/2026 01:19 a. m.
+Brian Brown | coco | beagle | 3 | 23 | 9.92 | 01/05/2026 03:17 a. m.
+Mary Williams | Luna | Chihuahua | 16 | 72 | 1.52 | 23/04/2026 09:39 a. m.
+John Martinez | Cooper | beagle | 18 | 80 | 11.46 | 11/04/2026 07:09 p. m.
+BARBARA THOMAS | Luna | Beagle | 9 | 47 | 8.56 | 13/04/2026 04:02 p. m.
+George King | Bruno | Dachund | 5 | 31 | 12.38 | 24/04/2026 01:03 p. m.
+Robert Brown | Thor | Dachshund | 18 | 80 | 6.12 | 23/04/2026 10:34 a. m.
+Christopher Jackson | Luna | French Bulldog | 5 | 31 | 10.4 | 18/04/2026 02:40 p. m.
+Lisa Thompson | Zeus | German Shepherd | 6 | 35 | 19.72 | 05/05/2026 07:29 a. m.
+Ethan Thompson | Bella | Dachshund | 18 | 80 | 7.85 | 03/05/2026 09:25 a. m.
+lisa jones | Molly | Siberian Husky | 15 | 68 | 19.25 | 19/04/2026 06:46 a. m.
+david allen | Coco | Chihuahua | 18 | 80 | 3.99 | 10/04/2026 04:01 p. m.
+Samuel Hernandez | Jack | Beagle | 18 | 80 | 13.61 | 04/05/2026 02:37 a. m.
+Emiliano Thompson | Bruno | French Bulldog | 18 | 80 | 11.57 | 28/04/2026 08:14 p. m.
+Jennifer Lopez | Zeus | French Bulldog | 18 | 80 | 12.44 | 22/04/2026 04:00 p. m.
+Sebastian King | Luna | Siberian Husky | 13 | 60 | 21.93 | 25/04/2026 08:23 p. m.
+Kenneth Jones | Duke | Beagle | 5 | 31 | 12.56 | 11/04/2026 09:16 p. m.
+alejandro garcia | Molly | Poodle | 8 | 43 | 6.16 | 26/04/2026 08:07 a. m.
+Ronald Rodriguez | duke | german shepherd | 18 | 80 | 23.52 | 24/04/2026 02:52 p. m.
+Linda Martinez | Bruno | Dachshund | 16 | 72 | 5.64 | 10/04/2026 04:20 a. m.
+lisa johnson | coco | Poodle | 3 | 23 | 4.86 | 26/04/2026 12:03 p. m.
+Lisa Thomas | Daisy | Chihuahua | 18 | 80 | 3.7 | 03/05/2026 09:06 a. m.
+Linda Martin | Thor | Siberian Husky | 4 | 27 | 20.07 | 26/04/2026 06:21 p. m.
+JOHN LOPEZ | Max | Poodle | 7 | 39 | 14.3 | 26/04/2026 02:09 p. m.
+Camila Smith | Lola | Beagle | 6 | 35 | 10.77 | 29/04/2026 07:19 a. m.
+Mary Thomas | bruno | Golden Retriver | 11 | 52 | 23.04 | 05/05/2026 11:36 a. m.
+Joseph Rodriguez | Molly | German Shepherd | 9 | 47 | 18.91 | 18/04/2026 10:41 a. m.
+Mateo Johnson | Jack | Chihuahua | 11 | 52 | 2.49 | 11/04/2026 04:05 a. m.
+Donald Miller | Max | Beagle | 18 | 80 | 11.59 | 11/04/2026 04:36 a. m.
+Paul Perez | Bruno | Poodle | 17 | 76 | 17.91 | 02/05/2026 07:33 a. m.
+Mark Wright | Max | beagle | 12 | 56 | 11.46 | 15/04/2026 05:51 p. m.
+Thomas Torres | Molly | Chihuahua | 1 | 13 | 3.44 | 26/04/2026 02:05 a. m.
+Mary Harris | lola | Dachshund | 18 | 80 | 5.84 | 11/04/2026 05:46 p. m.
+Gabriela Perez | Duke | German Shepherd | 18 | 80 | 19.08 | 16/04/2026 05:43 a. m.
+Diego Johnson | Daisy | German Shepherd | 4 | 27 | 27.81 | 20/04/2026 02:41 a. m.
+lisa jackson | LUNA | French Bulldog | 1 | 13 | 10.24 | 11/04/2026 12:32 a. m.
+Edward Davis | Thor | Chihuahua | 18 | 80 | 2.23 | 12/04/2026 04:51 p. m.
+Matthew Thompson | Bruno | Beagle | 1 | 13 | 8.74 | 15/04/2026 12:04 a. m.
+Daniela Lopez | Zeus | Golden Retriever | 18 | 80 | 23.6 | 30/04/2026 07:50 a. m.
+Joshua Williams | Bruno | Golden Retriver | 1 | 13 | 20.51 | 01/05/2026 03:22 a. m.
+john brown | DAISY | Dachshund | 18 | 80 | 7.74 | 01/05/2026 10:03 p. m.
+Patricia White | Thor | Poodle | 12 | 56 | 15.77 | 15/04/2026 11:22 p. m.
+David Sanchez | Max | Golden Retriever | 18 | 80 | 27.57 | 03/05/2026 11:07 p. m.
+Valeria Allen | Max | French Bulldog | 12 | 56 | 13.86 | 17/04/2026 11:33 a. m.
+Ethan Taylor | Daisy | Chihuahua | 18 | 80 | 2.86 | 17/04/2026 07:16 p. m.
+Amelia Martin | Bella | German Shepherd | 7 | 39 | 19.2 | 25/04/2026 07:22 a. m.
+George Torres | Jack | Dachshund | 18 | 80 | 7.62 | 04/05/2026 10:57 a. m.
+Linda Williams | Rocky | Chihuahua | 7 | 39 | 2.93 | 11/04/2026 11:20 p. m.
+Alejandro Gonzalez | Toby | French Bulldog | 17 | 76 | 12.99 | 10/04/2026 07:01 p. m.
+Amelia Davis | BELLA | French Bulldog | 13 | 60 | 9.8 | 29/04/2026 08:44 p. m.
+Elizabeth Hernandez | Max | Chihuahua | 7 | 39 | 3.25 | 28/04/2026 01:17 a. m.
+Emma Martinez | Cooper | Pudle | 18 | 80 | 16.84 | 12/04/2026 03:13 p. m.
+Karen Jones | Jack | French Bulldog | 10 | 48 | 11.13 | 15/04/2026 05:11 a. m.
+Jason King | Jack | French Bulldog | 14 | 64 | 11.46 | 20/04/2026 11:17 p. m.
+Brian Martin | Bruno | FRENCH BULLDOG | 18 | 80 | 12.57 | 11/04/2026 04:23 a. m.
+Thomas Perez | duke | Poodle | 18 | 80 | 4.33 | 15/04/2026 01:05 p. m.
+Mia Perez | Toby | Poodle | 11 | 52 | 14.44 | 25/04/2026 06:00 a. m.
+Joseph Sanchez | Zeus | Dachshun | 5 | 31 | 19.8 | 24/04/2026 08:21 a. m.
+Ximena Young | Thor | Beagle | 18 | 80 | 12.49 | 15/04/2026 03:24 p. m.
+Emma Wright | Molly | Chiuahua | 18 | 80 | 8.02 | 25/04/2026 04:03 p. m.
+Sarah Wright | Toby | French Buldog | 9 | 47 | 8.85 | 04/05/2026 02:20 a. m.
+Mariana Thompson | Zeus | French Bulldog | 13 | 60 | 10.8 | 23/04/2026 08:24 p. m.
+Mateo Smith | Thor | Beagle | 18 | 80 | 14.99 | 23/04/2026 10:48 p. m.
+Liam White | Daisy | Siberian Husky | 18 | 80 | 16.92 | 15/04/2026 08:45 p. m.
+Ximena Gonzalez | Jack | Beagle | 17 | 76 | 9.75 | 11/04/2026 01:49 p. m.
+Jessica Davis | Daisy | Beagle | 10 | 48 | 12.02 | 03/05/2026 12:02 p. m.
+Felipe Johnson | Daisy | German Shepherd | 18 | 80 | 20.61 | 17/04/2026 04:58 a. m.
+Richard Thompson | Daisy | Siberian Husky | 15 | 68 | 16.19 | 17/04/2026 06:18 p. m.
+Samuel Perez | Duke | Beagle | 7 | 39 | 8.66 | 21/04/2026 02:35 p. m.
+Emiliano Young | Molly | Chihuahua | 13 | 60 | 1.81 | 05/05/2026 12:55 p. m.
+Ethan Torres | zeus | Golden Retriever | 7 | 39 | 28.75 | 02/05/2026 03:38 p. m.
+Paul Wilson | Zeus | Golden Retriever | 3 | 23 | 20.43 | 21/04/2026 10:11 p. m.
+Beatriz Anderson | Zeus | Beaggle | 18 | 80 | 9.09 | 14/04/2026 06:50 a. m.
+Karen Garcia | Thor | German Shepherd | 12 | 56 | 22.19 | 11/04/2026 04:47 a. m.
+Christopher Wright | Duke | German Shepherd | 9 | 47 | 20.73 | 25/04/2026 11:43 p. m.
+Harper White | Jack | Poodle | 18 | 80 | 12.65 | 13/04/2026 03:43 a. m.
+Kevin Gonzalez | Luna | Begle | 9 | 47 | 10.85 | 19/04/2026 05:57 a. m.
+Lisa Martinez | Bruno | German Shepherd | 18 | 80 | 19.14 | 29/04/2026 09:47 a. m.
+Isabella Martinez | Rocky | Golden Retriever | 4 | 27 | 20.55 | 11/04/2026 06:51 p. m.
+Beatriz Miller | Cooper | Chihuahua | 17 | 76 | 2.14 | 02/05/2026 02:33 a. m.
+Lisa Sanchez | Molly | German Shepart | 18 | 80 | 5.47 | 24/04/2026 03:00 p. m.
+Valeria Anderson | Coco | Chihuahua | 15 | 68 | 2.52 | 18/04/2026 10:57 p. m.
+Richard Thomas | Bruno | Chihuahua | 18 | 80 | 3.04 | 26/04/2026 01:59 p. m.
+Mary Jackson | Thor | Poodle | 18 | 80 | 10.21 | 27/04/2026 05:10 a. m.
+Harper Smith | Max | Dachshund | 18 | 80 | 4.22 | 23/04/2026 06:02 a. m.
+Mark King | Bruno | Poodle | 16 | 72 | 3.73 | 27/04/2026 10:02 p. m.
+Diego Garcia | Jack | Poodle | 18 | 80 | 6.81 | 03/05/2026 06:06 a. m.
+Brian Gonzalez | bruno | Poodle | 2 | 19 | 14.18 | 07/05/2026 04:27 a. m.
+Isabella Thompson | Molly | Chihuahua | 11 | 52 | 2.24 | 13/04/2026 11:28 p. m.
+Matias Torres | rocky | German Shepherd | 0 | 0 | 26.38 | 02/05/2026 10:48 p. m.
+John King | Coco | Golden Retrevier | 16 | 72 | 28.62 | 13/04/2026 05:01 a. m.
+charlotte king | Lola | Chihuahua | 14 | 64 | 1.9 | 16/04/2026 01:23 a. m.
+Mary Thompson | Jack | Chihuaua | 6 | 35 | 9.24 | 27/04/2026 11:35 a. m.
+Sofía Scott | Daisy | Beagle | 18 | 80 | 14.94 | 14/04/2026 07:12 p. m.
+Ethan Rodriguez | Luna | Chihuahua | 3 | 23 | 1.62 | 17/04/2026 11:05 a. m.
+Alejandro Wilson | Rocky | poodle | 18 | 80 | 16.98 | 03/05/2026 02:37 a. m.
+Leonardo Allen | Jack | German Shepherd | 18 | 80 | 18.91 | 27/04/2026 05:35 p. m.
+Fernando Jackson | Duke | Golden Retriever | 14 | 64 | 23.24 | 13/04/2026 05:21 a. m.
+Liam Miller | Rocky | Chihuahua | 18 | 80 | 2.5 | 23/04/2026 06:47 p. m.
+Donald Garcia | Cooper | German Shepart | 8 | 43 | 7.21 | 01/05/2026 04:04 p. m.
+Ximena Allen | Rocky | Gold Retiever | 14 | 64 | 10.69 | 05/05/2026 01:49 p. m.
+Mark Perez | Molly | Siberian Husky | 4 | 27 | 26.3 | 22/04/2026 10:59 p. m.
+Matias Young | daisy | Poodle | 18 | 80 | 14.95 | 23/04/2026 03:28 a. m.
+James Rodriguez | Lola | Dachshun | 17 | 76 | 8.33 | 07/05/2026 09:43 a. m.
+Ethan Gonzalez | Max | Beagle | 14 | 64 | 11.35 | 14/04/2026 05:56 p. m.
+emiliano rodriguez | Luna | German Shepherd | 18 | 80 | 23.03 | 15/04/2026 01:55 a. m.
+Joshua Garcia | Bella | German Shepart | 3 | 23 | 18.67 | 23/04/2026 03:40 p. m.
+Daniela Harris | Coco | DACHSHUND | 18 | 80 | 9.3 | 05/05/2026 02:56 a. m.
+Sofía Taylor | Max | Beagle | 1 | 13 | 13.18 | 11/04/2026 10:53 p. m.
+Barbara King | Lola | French Bulldog | 18 | 80 | 11.41 | 29/04/2026 06:28 p. m.
+Lucas Lopez | Luna | Dachshund | 18 | 80 | 4.12 | 13/04/2026 08:39 a. m.
+Mateo Sanchez | Cooper | Poodle | 6 | 35 | 18.36 | 02/05/2026 06:04 a. m.
+Mary Martinez | Toby | Chihuahua | 18 | 80 | 1.55 | 20/04/2026 01:17 p. m.
+mark martinez | Bella | Golden Retriever | 12 | 56 | 24.87 | 19/04/2026 07:55 a. m.
+Ximena Perez | Bruno | Golden Retriever | 18 | 80 | 20.49 | 17/04/2026 05:56 a. m.
+Brian Jones | Jack | Chihuahua | 1 | 13 | 3.58 | 06/05/2026 02:00 a. m.
+Jessica Wilson | Jack | Poodle | 18 | 80 | 9.29 | 05/05/2026 02:12 a. m.
+Brian Wright | bruno | CHIHUAUA | 18 | 80 | 12.9 | 19/04/2026 01:31 a. m.
+Barbara Martin | Lola | Chihuaua | 1 | 13 | 14.01 | 19/04/2026 05:06 a. m.
+Harper Davis | Luna | Chihuahua | 18 | 80 | 3.15 | 27/04/2026 05:33 p. m.
+Valeria Wright | Bella | Chihuaua | 9 | 47 | 6.65 | 12/04/2026 09:32 p. m.
+ximena thomas | Daisy | Chihuahua | 18 | 80 | 3.52 | 18/04/2026 04:42 a. m.
+Jessica Scott | Thor | German Shepart | 18 | 80 | 9.7 | 12/04/2026 04:49 p. m.
+Thomas Anderson | Thor | Golden Retriever | 18 | 80 | 28.39 | 24/04/2026 07:51 p. m.
+Jessica Perez | Molly | French Bulldog | 18 | 80 | 10.18 | 17/04/2026 10:37 a. m.
+Emma Harris | Rocky | French Bulldog | 7 | 39 | 10.62 | 29/04/2026 10:45 a. m.
+Daniela Jackson | Bruno | Beagle | 18 | 80 | 8.18 | 02/05/2026 11:43 a. m.
+Nancy Harris | Duke | Dachshund | 17 | 76 | 8.23 | 19/04/2026 07:38 a. m.
+nicolas taylor | Bruno | Golden Retriever | 3 | 23 | 22.86 | 04/05/2026 11:05 p. m.
+Jennifer Scott | lola | Siberian Husky | 10 | 48 | 17.33 | 15/04/2026 12:05 p. m.
+Samuel Taylor | Zeus | Beagle | 4 | 27 | 14.68 | 20/04/2026 06:48 p. m.
+Leonardo Miller | Rocky | Chihuahua | 18 | 80 | 1.68 | 17/04/2026 10:57 a. m.
+Alejandro White | Cooper | Chihuahua | 18 | 80 | 3.45 | 17/04/2026 06:59 a. m.
+Steven Perez | cooper | Poodle | 11 | 52 | 4.97 | 13/04/2026 09:43 a. m.
+Kenneth Taylor | Rocky | Poodle | 18 | 80 | 19.29 | 18/04/2026 10:32 p. m.
+Kenneth Smith | Thor | Golden Retriever | 18 | 80 | 27.63 | 27/04/2026 12:19 a. m.
+Amelia Torres | Duke | GERMAN SHEPART | 14 | 64 | 18.37 | 20/04/2026 11:42 p. m.
+Liam Thomas | Luna | Dashchund | 7 | 39 | 15.3 | 24/04/2026 09:59 p. m.
+DIEGO MARTINEZ | Lola | Chihuahua | 6 | 35 | 2.57 | 19/04/2026 08:56 a. m.
+nicolas torres | Coco | Beagle | 0 | 0 | 10.81 | 03/05/2026 06:20 a. m.
+Beatriz Johnson | Bella | Chihuaua | 4 | 27 | 12.08 | 26/04/2026 12:58 p. m.
+BEATRIZ BROWN | coco | Beagle | 18 | 80 | 10.92 | 13/04/2026 01:17 a. m.
+Sebastian Wright | Molly | Poodle | 0 | 0 | 7.06 | 11/04/2026 06:38 p. m.
+Susan Sanchez | max | French Bull dog | 8 | 43 | 9.7 | 06/05/2026 07:34 p. m.
+Javier Wright | toby | German Shepherd | 0 | 0 | 23.74 | 30/04/2026 03:31 p. m.
+Sebastian Garcia | Rocky | Siberian Husky | 8 | 43 | 21.5 | 21/04/2026 01:08 p. m.
+sebastian martinez | Jack | German Shepherd | 12 | 56 | 20.77 | 06/05/2026 04:15 a. m.
+John Jones | Rocky | Dachshund | 10 | 48 | 9.51 | 14/04/2026 01:12 a. m.
+Mark Hernandez | Luna | Chihuahua | 18 | 80 | 1.79 | 26/04/2026 10:24 a. m.
+Richard Jones | Rocky | German Shepherd | 13 | 60 | 20.47 | 23/04/2026 11:22 a. m.
+Karen Gonzalez | Daisy | POODLE | 6 | 35 | 19.02 | 21/04/2026 09:38 p. m.
+thomas brown | Daisy | Chihuahua | 4 | 27 | 3.59 | 05/05/2026 10:05 a. m.
+Mark Sanchez | Duke | Pudle | 18 | 80 | 5.75 | 20/04/2026 03:36 p. m.
+William Smith | Thor | Golden Retriever | 18 | 80 | 23.27 | 05/05/2026 11:42 a. m.
+Alejandro Young | Max | Chihuahua | 18 | 80 | 1.73 | 29/04/2026 08:46 a. m.
+Mary Rodriguez | Max | Siberian Husky | 7 | 39 | 19.45 | 18/04/2026 05:11 p. m.
+joshua perez | Zeus | Beagle | 18 | 80 | 12.04 | 15/04/2026 03:11 a. m.
+Nicolas Davis | rocky | Poodle | 18 | 80 | 5.65 | 19/04/2026 03:28 a. m.
+Charlotte Garcia | Bella | Siberian Husky | 1 | 13 | 19.53 | 30/04/2026 04:57 a. m.
+Emiliano Perez | Coco | German Shepherd | 12 | 56 | 29.3 | 21/04/2026 07:18 a. m.
+Mary White | Luna | Dachshun | 18 | 80 | 15.64 | 03/05/2026 05:48 a. m.
+Valeria Taylor | Zeus | Dachshund | 18 | 80 | 9.38 | 04/05/2026 06:55 a. m.
+Charlotte Rodriguez | Thor | Chihuahua | 12 | 56 | 1.61 | 25/04/2026 08:40 a. m.
+Mia Taylor | Cooper | dachshund | 18 | 80 | 4.14 | 16/04/2026 04:40 a. m.
+Amelia Taylor | Zeus | French Bulldog | 18 | 80 | 8.56 | 23/04/2026 09:14 p. m.
+Emma Williams | Daisy | German Sheperd | 14 | 64 | 17.51 | 11/04/2026 11:27 p. m.
+Mariana Gonzalez | Jack | Chihuahua | 11 | 52 | 3.87 | 10/04/2026 04:12 p. m.
+Nicolas Garcia | Duke | Dachshund | 17 | 76 | 9.25 | 18/04/2026 01:42 a. m.
+sarah torres | Lola | Beagle | 10 | 48 | 9.2 | 12/04/2026 05:29 a. m.
+camila jackson | Cooper | FRENCH BULLDOG | 8 | 43 | 12.18 | 19/04/2026 04:03 a. m.
+ADELA KING | Jack | Beagle | 9 | 47 | 9.65 | 19/04/2026 03:53 a. m.
+Joseph Brown | Cooper | Poodle | 16 | 72 | 4.43 | 06/05/2026 12:13 a. m.
+Ricardo Perez | Zeus | Dachshund | 18 | 80 | 9.66 | 24/04/2026 01:14 a. m.
+Benjamin Miller | Lola | Dachshund | 6 | 35 | 6.08 | 23/04/2026 01:56 p. m.
+Ronald Perez | Molly | Chihuahua | 10 | 48 | 3.46 | 29/04/2026 04:08 a. m.
+nicolas miller | Molly | French Bulldog | 8 | 43 | 11.87 | 01/05/2026 10:43 a. m.
+Paul King | Duke | french buldog | 8 | 43 | 9.32 | 23/04/2026 09:18 p. m.
+Lisa Davis | Duke | Poodle | 18 | 80 | 3.35 | 05/05/2026 11:22 a. m.
+Ximena Williams | Molly | German Shepherd | 18 | 80 | 27.65 | 21/04/2026 05:35 a. m.
+jeffrey hernandez | Rocky | Siberian Husky | 18 | 80 | 23.87 | 26/04/2026 11:36 p. m.
+Edward White | Bella | Beagle | 5 | 31 | 8.69 | 27/04/2026 03:18 a. m.
+Timothy Davis | Luna | French Bulldog | 7 | 39 | 8.54 | 19/04/2026 04:42 a. m.
+Samuel Brown | DUKE | Siberian Husky | 18 | 80 | 18.32 | 29/04/2026 01:32 p. m.
+Jennifer Rodriguez | Molly | Beagle | 5 | 31 | 12.8 | 27/04/2026 09:07 a. m.
+Mary Jones | Thor | Chihuahua | 18 | 80 | 3.92 | 07/05/2026 04:19 a. m.
+Isabella Smith | Lola | Beagle | 18 | 80 | 11.87 | 26/04/2026 05:54 p. m.
+Camila Jones | Cooper | Podle | 6 | 35 | 6.19 | 10/04/2026 11:34 p. m.
+Steven Martinez | Zeus | Golden Retriever | 18 | 80 | 26.14 | 23/04/2026 11:31 a. m.
+Jason Gonzalez | Max | Poodle | 18 | 80 | 12.24 | 30/04/2026 07:11 a. m.
+Matthew Wright | Rocky | Poodle | 18 | 80 | 13.08 | 24/04/2026 05:08 p. m.
+Mary King | Duke | Poodle | 14 | 64 | 11.61 | 20/04/2026 01:08 p. m.
+Susan Smith | Daisy | Poodle | 18 | 80 | 17.09 | 27/04/2026 01:24 a. m.
+Ricardo Brown | Thor | Chihuahua | 18 | 80 | 1.76 | 26/04/2026 08:12 a. m.
+Timothy Thompson | Bella | Chihuahua | 18 | 80 | 3.07 | 03/05/2026 12:14 p. m.
+William Jackson | Max | German Shepherd | 6 | 35 | 26.52 | 30/04/2026 09:27 p. m.
+Elizabeth Miller | Molly | Poodle | 18 | 80 | 15.56 | 14/04/2026 04:19 a. m.
+Camila Harris | Jack | French Bulldog | 2 | 19 | 12.24 | 04/05/2026 12:36 p. m.
+Oliver Davis | Luna | German Shepherd | 3 | 23 | 19.15 | 27/04/2026 11:37 a. m.
+Valeria Scott | Cooper | French Bulldog | 18 | 80 | 9.07 | 20/04/2026 01:01 p. m.
+THOMAS JONES | Coco | Siberian Husky | 9 | 47 | 22.13 | 29/04/2026 03:39 p. m.
+Kevin Young | BRUNO | FRENCH BULLDOG | 18 | 80 | 12.6 | 18/04/2026 11:04 a. m.
+luciana smith | Coco | Dachshund | 10 | 48 | 6.47 | 20/04/2026 10:26 a. m.
+Javier Gonzalez | Max | Poodle | 18 | 80 | 7.92 | 22/04/2026 04:39 p. m.
+Linda Anderson | Coco | French Bulldog | 18 | 80 | 9.05 | 07/05/2026 01:45 a. m.
+Nancy Jackson | Rocky | Beagle | 2 | 19 | 13.69 | 10/04/2026 02:45 p. m.
+Susan Johnson | Molly | Siberian Husky | 8 | 43 | 23.87 | 04/05/2026 01:09 p. m.
+Nicolas Gonzalez | Cooper | Beagle | 18 | 80 | 10.34 | 30/04/2026 05:25 p. m.
+Robert Martin | Luna | Pudle | 2 | 19 | 12.06 | 15/04/2026 08:05 p. m.
+Jennifer Jackson | Rocky | French Bulldog | 6 | 35 | 11.12 | 16/04/2026 01:18 p. m.
+Alejandro Martinez | Bruno | Pudle | 6 | 35 | 12.35 | 30/04/2026 10:38 a. m.
+Daniela Young | Thor | French Bulldog | 18 | 80 | 11.72 | 29/04/2026 01:49 a. m.
+Timothy Jackson | THOR | Siberian Husky | 5 | 31 | 22.93 | 06/05/2026 07:18 a. m.
+Isabella Taylor | Bella | German Shepherd | 10 | 48 | 20.08 | 24/04/2026 03:04 a. m.
+Charles Lopez | Toby | Poodle | 17 | 76 | 11.6 | 26/04/2026 08:40 p. m.
+Victoria Williams | MAX | Dachshund | 1 | 13 | 5.96 | 02/05/2026 08:32 a. m.
+Joseph Jones | Rocky | Dachshund | 13 | 60 | 6.61 | 29/04/2026 01:14 a. m.
+Barbara Hernandez | Thor | golden retriever | 18 | 80 | 21.8 | 22/04/2026 09:51 p. m.
+Elizabeth Scott | DUKE | French Bulldog | 5 | 31 | 8.9 | 29/04/2026 10:10 p. m.
+George Gonzalez | Rocky | French Bulldog | 18 | 80 | 8.48 | 30/04/2026 05:53 p. m.
+Susan Jones | Bruno | Dachshund | 16 | 72 | 6.02 | 20/04/2026 12:25 a. m.
+Karen Taylor | Rocky | Golden Retriever | 1 | 13 | 25.94 | 05/05/2026 03:31 p. m.
+Paul Wright | Thor | Beagle | 5 | 31 | 9.78 | 05/05/2026 09:22 a. m.
+Harper Torres | Molly | Dachshund | 18 | 80 | 9.67 | 01/05/2026 08:28 p. m.
+ELIZABETH TORRES | Luna | Golden Retrevier | 18 | 80 | 24.62 | 22/04/2026 05:01 p. m.
+Joseph Scott | Lola | Dachshund | 18 | 80 | 7.41 | 22/04/2026 01:26 p. m.
+Ximena Martin | Rocky | Poodle | 18 | 80 | 6.93 | 05/05/2026 07:57 a. m.
+Jessica Jackson | Molly | Beagle | 18 | 80 | 10.63 | 10/04/2026 12:36 p. m.
+Kevin Harris | Molly | Begle | 9 | 47 | 10.82 | 26/04/2026 12:42 a. m.
+Lisa Rodriguez | Molly | Beagle | 1 | 13 | 13.88 | 03/05/2026 08:32 a. m.
+Felipe Martinez | Max | Poodle | 0 | 0 | 9.91 | 18/04/2026 08:19 a. m.
+Ethan Sanchez | Zeus | Beagle | 13 | 60 | 10.75 | 27/04/2026 10:46 p. m.
+Jason Martinez | Thor | Beagle | 11 | 52 | 10.58 | 22/04/2026 12:09 a. m.
+Lucas Wilson | Zeus | German Shepherd | 14 | 64 | 28.73 | 01/05/2026 05:01 p. m.
+Javier Thompson | Luna | Golden Retriever | 18 | 80 | 26.17 | 19/04/2026 08:24 a. m.
+Valeria Lopez | Toby | Dachshund | 1 | 13 | 9.96 | 16/04/2026 03:36 a. m.
+CHARLOTTE MARTINEZ | Toby | Dachshund | 11 | 52 | 9.76 | 27/04/2026 04:31 p. m.
+Matthew Hernandez | Luna | Beagle | 5 | 31 | 8.66 | 24/04/2026 04:47 p. m.
+Anthony King | coco | German Shepherd | 18 | 80 | 29.18 | 21/04/2026 06:14 p. m.
+FELIPE MARTIN | Duke | Chihuahua | 18 | 80 | 2.79 | 12/04/2026 05:59 a. m.
+ethan wilson | Lola | Beaggle | 1 | 13 | 8.97 | 19/04/2026 03:07 a. m.
+Noah Thompson | Zeus | Beagle | 16 | 72 | 14.11 | 26/04/2026 06:52 p. m.
+Susan White | Bella | Beagle | 18 | 80 | 10.52 | 03/05/2026 01:50 a. m.
+Javier Scott | Bruno | Poodle | 2 | 19 | 14.02 | 17/04/2026 08:23 a. m.
+Beatriz White | Jack | Beaggle | 18 | 80 | 10.6 | 12/04/2026 08:03 p. m.
+Mariana Rodriguez | Toby | Golden Retriever | 18 | 80 | 23.56 | 06/05/2026 08:38 p. m.
+Mia Martinez | Thor | Siberian Husky | 14 | 64 | 17.47 | 24/04/2026 12:32 p. m.
+daniel white | Luna | Chihuahua | 18 | 80 | 1.64 | 19/04/2026 05:44 p. m.
+Daniela Hernandez | Coco | Siberian Husky | 7 | 39 | 19.54 | 22/04/2026 11:46 a. m.
+Fernando Wilson | Cooper | German Shepart | 2 | 19 | 12.73 | 18/04/2026 12:24 p. m.
+Mark Davis | Toby | Beagle | 2 | 19 | 14.64 | 13/04/2026 09:00 p. m.
+Mary Taylor | Coco | Chihuahua | 18 | 80 | 2.18 | 11/04/2026 03:34 p. m.
+Sarah Hernandez | Jack | Poodle | 4 | 27 | 6.33 | 11/04/2026 01:43 a. m.
+George Williams | Daisy | Beagle | 8 | 43 | 11.96 | 20/04/2026 04:48 p. m.
+Elizabeth Johnson | Thor | Dachshund | 7 | 39 | 5.43 | 07/05/2026 07:42 a. m.
+ximena garcia | Bruno | Siberian Huskey | 3 | 23 | 8.75 | 30/04/2026 06:39 p. m.
+Joaquin Williams | Max | Golden Retriever | 18 | 80 | 29.67 | 26/04/2026 03:25 p. m.
+jessica martinez | Zeus | Beagle | 7 | 39 | 10.72 | 18/04/2026 08:22 a. m.
+Robert Lopez | Thor | German Shepherd | 18 | 80 | 22.32 | 25/04/2026 04:57 p. m.
+Karen Thompson | Toby | Siberian Husky | 13 | 60 | 23.07 | 03/05/2026 06:31 p. m.
+Robert Gonzalez | Coco | Siberian Huskey | 9 | 47 | 14.38 | 16/04/2026 08:31 p. m.
+Santiago Rodriguez | Molly | French Bulldog | 18 | 80 | 13.62 | 26/04/2026 10:23 a. m.
+Linda Garcia | Jack | FRENCH BULLDOG | 16 | 72 | 11.19 | 21/04/2026 06:25 a. m.
+daniel wilson | Bruno | Poodle | 18 | 80 | 14.84 | 14/04/2026 09:28 p. m.
+Andrew Thomas | LOLA | Beagle | 18 | 80 | 11.97 | 15/04/2026 11:57 p. m.
+James Williams | Coco | Poodle | 18 | 80 | 10.29 | 06/05/2026 01:11 a. m.
+Sebastian Williams | Daisy | Dachund | 6 | 35 | 5.58 | 25/04/2026 09:28 a. m.
+Brian Taylor | Cooper | Dachshund | 18 | 80 | 9.56 | 26/04/2026 09:21 a. m.
+Mateo Gonzalez | Max | Dachshun | 18 | 80 | 19.82 | 18/04/2026 07:03 a. m.
+Michael Martinez | Daisy | Golden Retriever | 11 | 52 | 27.28 | 14/04/2026 11:25 a. m.
+Jason Young | Daisy | French Bulldog | 12 | 56 | 8.37 | 02/05/2026 02:30 a. m.
+Gabriela Martin | Rocky | German Shepherd | 0 | 0 | 20.76 | 28/04/2026 01:27 p. m.
+Daniela King | Bella | Dachshund | 18 | 80 | 7.19 | 05/05/2026 11:55 p. m.
+Noah Gonzalez | Duke | GERMAN SHEPHERD | 5 | 31 | 23.42 | 07/05/2026 09:58 a. m.
+James Hernandez | Rocky | Chihuahua | 2 | 19 | 3.2 | 25/04/2026 06:58 a. m.
+Leonardo Jones | Toby | dachshund | 8 | 43 | 9.39 | 23/04/2026 07:48 a. m.
+Gabriela Thompson | Lola | Dachshund | 18 | 80 | 6.27 | 22/04/2026 05:45 a. m.
+Charlotte Harris | Zeus | German Shepherd | 18 | 80 | 20.28 | 22/04/2026 12:16 a. m.
+Amelia Allen | Max | Siberian Husky | 13 | 60 | 19.09 | 26/04/2026 06:22 a. m.
+Edward Brown | Bruno | French Bulldog | 8 | 43 | 12.47 | 19/04/2026 07:53 a. m.
+Oliver Williams | Coco | French Bulldog | 18 | 80 | 11.6 | 26/04/2026 07:56 p. m.
+Daniel Torres | Molly | Golden Retriever | 11 | 52 | 26.48 | 07/05/2026 06:04 a. m.
+Beatriz Rodriguez | Jack | Golden Retriever | 18 | 80 | 22.26 | 03/05/2026 09:09 a. m.
+Ricardo King | Luna | Dachshund | 18 | 80 | 7.52 | 21/04/2026 04:16 a. m.
+Mariana Johnson | Daisy | French Bulldog | 18 | 80 | 8.58 | 03/05/2026 06:35 p. m.
+Elizabeth Brown | Jack | Golden Retriever | 13 | 60 | 20.78 | 22/04/2026 10:51 a. m.
+Patricia Sanchez | Bella | French Bulldog | 18 | 80 | 10.45 | 02/05/2026 08:19 a. m.
+Sofía Young | Thor | Gold Retiever | 18 | 80 | 19.32 | 21/04/2026 09:45 p. m.
+Luciana Rodriguez | Bruno | Siberian Husky | 0 | 0 | 19.83 | 13/04/2026 04:53 a. m.
+Anthony Scott | Thor | Beagle | 15 | 68 | 14.4 | 16/04/2026 10:15 a. m.
+Gabriela Young | Jack | Poodle | 1 | 13 | 13.84 | 01/05/2026 12:01 a. m.
+thomas rodriguez | Cooper | German Shepherd | 2 | 19 | 22.73 | 11/04/2026 02:13 a. m.
+Adela Perez | Bella | Chihuahua | 13 | 60 | 3.11 | 24/04/2026 10:22 p. m.
+Benjamin Anderson | Bella | French Bulldog | 18 | 80 | 10.97 | 20/04/2026 10:45 a. m.
+Samuel White | Cooper | Siberian Husky | 18 | 80 | 24.1 | 24/04/2026 08:50 a. m.
+Victoria Taylor | Daisy | Golden Retriever | 12 | 56 | 26.97 | 19/04/2026 12:32 a. m.
+Emma Anderson | Bruno | Beagle | 18 | 80 | 14.31 | 12/04/2026 10:30 a. m.
+George Harris | Molly | SIBERIAN HUSKY | 4 | 27 | 20.06 | 01/05/2026 04:39 p. m.
+Emma Thomas | Bella | poodle | 4 | 27 | 18.52 | 21/04/2026 02:22 a. m.
+Diego Anderson | Bruno | Dachshund | 7 | 39 | 7.31 | 14/04/2026 01:25 a. m.
+Liam Sanchez | Bella | German Shepherd | 18 | 80 | 21.94 | 13/04/2026 04:35 p. m.
+Liam King | Molly | Podle | 14 | 64 | 16.86 | 12/04/2026 07:38 p. m.
+Amelia Anderson | Bruno | Beagle | 18 | 80 | 13.98 | 02/05/2026 03:08 p. m.
+Isabella Brown | Max | Poodle | 0 | 0 | 12.42 | 15/04/2026 03:54 p. m.
+MATIAS WILSON | Coco | French Bulldog | 5 | 31 | 9.25 | 23/04/2026 04:29 a. m.
+Adela Wilson | Duke | Golden Retriever | 18 | 80 | 23.67 | 20/04/2026 02:39 a. m.
+Valeria Torres | Thor | German Shepear | 14 | 64 | 8.92 | 20/04/2026 01:38 p. m.
+Brian Anderson | Molly | Siberian Husky | 13 | 60 | 26.44 | 13/04/2026 08:00 p. m.
+Emiliano Torres | Rocky | Dachshund | 18 | 80 | 9.17 | 13/04/2026 12:46 a. m.
+Victoria Taylor | Daisy | Golden Retriever | 12 | 56 | 22.03 | 19/04/2026 12:32 a. m.
+GABRIELA ALLEN | Daisy | Golden Retriver | 18 | 80 | 25.72 | 20/04/2026 08:09 p. m.
+Matthew Torres | Coco | Poodle | 18 | 80 | 5.47 | 06/05/2026 07:19 a. m.
+David Rodriguez | luna | Dachshund | 5 | 31 | 6.81 | 21/04/2026 02:29 a. m.
+Sebastian Hernandez | Jack | German Shepherd | 18 | 80 | 22.68 | 19/04/2026 11:44 a. m.
+Beatriz Young | Cooper | Siberian Husky | 18 | 80 | 26.98 | 03/05/2026 03:58 p. m.
+David King | Max | German Shepherd | 18 | 80 | 26.48 | 05/05/2026 08:48 p. m.
+Joshua Hernandez | Daisy | golden retriever | 18 | 80 | 21.1 | 05/05/2026 08:16 a. m.
+Matthew Sanchez | Toby | Chihuahua | 6 | 35 | 1.78 | 22/04/2026 09:15 p. m.
+Gabriela Taylor | Bruno | Dachshund | 6 | 35 | 8.53 | 24/04/2026 10:56 a. m.
+Martina Allen | Cooper | Dachshun | 17 | 76 | 5.74 | 17/04/2026 03:31 a. m.
+Thomas Miller | thor | Golden Retriever | 18 | 80 | 23.97 | 25/04/2026 06:02 p. m.
+Daniel Jones | Molly | German Shepherd | 18 | 80 | 18.05 | 11/04/2026 05:18 a. m.
+Donald Scott | Toby | Beagle | 10 | 48 | 9.52 | 11/04/2026 04:08 a. m.
+Felipe Anderson | Duke | German Shepherd | 18 | 80 | 26.45 | 20/04/2026 04:13 p. m.
+David Martinez | Lola | Beagle | 2 | 19 | 11.51 | 06/05/2026 08:09 p. m.
+Felipe Thompson | Max | Dachshund | 18 | 80 | 5.62 | 30/04/2026 08:29 p. m.
+Diego Hernandez | Cooper | Chihuahua | 18 | 80 | 2.01 | 30/04/2026 12:29 p. m.
+Lisa White | coco | Poodle | 15 | 68 | 12.31 | 11/04/2026 11:17 a. m.
+Nancy Williams | Thor | Golden Retriever | 6 | 35 | 23.27 | 28/04/2026 07:30 a. m.
+Mateo Taylor | Thor | French Bulldog | 18 | 80 | 13.41 | 11/04/2026 10:05 a. m.
+Robert White | Bruno | Dashchund | 3 | 23 | 16.93 | 06/05/2026 02:57 p. m.
+Nancy Allen | Luna | Poodle | 4 | 27 | 8.92 | 28/04/2026 08:58 p. m.
+Nancy White | Jack | Golden Retriver | 0 | 0 | 29.56 | 05/05/2026 07:58 p. m.
+Charles Anderson | Jack | Golden Retriever | 3 | 23 | 23.67 | 17/04/2026 03:34 a. m.
+Mary Wilson | Bella | Golden Retriever | 14 | 64 | 24.65 | 13/04/2026 01:18 p. m.
+Jason Taylor | Molly | Golden Retriever | 14 | 64 | 24.84 | 04/05/2026 08:22 p. m.
+SANTIAGO JONES | Daisy | Dachshund | 14 | 64 | 4.4 | 21/04/2026 01:53 p. m.
+Elizabeth Williams | Max | french bulldog | 18 | 80 | 8.34 | 14/04/2026 06:25 a. m.
+Ronald Martin | Coco | French Bulldog | 7 | 39 | 9.9 | 21/04/2026 09:24 p. m.
+Jeffrey Garcia | Toby | Dachshun | 17 | 76 | 13.46 | 05/05/2026 03:25 p. m.
+David Wright | Jack | Siberian Huskey | 17 | 76 | 11.17 | 23/04/2026 06:08 a. m.
+Daniel Smith | Jack | Chihuahua | 7 | 39 | 2.14 | 23/04/2026 12:54 p. m.
+Isabella Davis | Lola | Dachund | 18 | 80 | 13.54 | 28/04/2026 10:06 p. m.
+Nancy Brown | Bella | Siberian Husky | 5 | 31 | 18.29 | 15/04/2026 06:51 a. m.
+Santiago Taylor | Rocky | Dashchund | 18 | 80 | 5.73 | 02/05/2026 08:27 a. m.
+Mary Scott | Duke | French Bulldog | 3 | 23 | 11.29 | 26/04/2026 05:17 p. m.
+Ethan Hernandez | Duke | GERMAN SHEPART | 13 | 60 | 15.59 | 01/05/2026 05:13 p. m.
+Kenneth Brown | Jack | Beagle | 18 | 80 | 12.31 | 20/04/2026 01:29 p. m.
+Kevin Taylor | Bruno | siberian husky | 11 | 52 | 18.98 | 13/04/2026 02:21 a. m.
+Jason Thompson | Coco | Chihuahua | 10 | 48 | 2.87 | 12/04/2026 07:11 p. m.
+Mark Allen | Toby | siberian husky | 18 | 80 | 19.79 | 10/04/2026 12:23 a. m.
+Amelia Garcia | Bruno | French Bulldog | 8 | 43 | 12.88 | 06/05/2026 01:34 a. m.
+James Jackson | Luna | Golden Retriever | 18 | 80 | 27.41 | 13/04/2026 05:04 a. m.
+Benjamin Smith | Bella | Chiuahua | 4 | 27 | 11.79 | 01/05/2026 01:10 a. m.
+Harper Wright | Bruno | Dashchund | 18 | 80 | 8.03 | 04/05/2026 09:25 a. m.
+Elizabeth Taylor | Toby | Beagle | 12 | 56 | 13.75 | 30/04/2026 02:44 p. m.
+Edward Jones | jack | Dachshund | 7 | 39 | 7.35 | 16/04/2026 12:59 p. m.
+Martina Torres | Duke | Siberian Husky | 13 | 60 | 18.94 | 15/04/2026 10:49 a. m.
+Santiago Martinez | Lola | Beagle | 18 | 80 | 13.73 | 28/04/2026 07:58 a. m.
+William Miller | molly | Siberian Huski | 18 | 80 | 13.04 | 26/04/2026 02:36 a. m.
+Joshua Martinez | Zeus | Golden Retriever | 0 | 0 | 22.95 | 01/05/2026 01:00 p. m.
+Camila Johnson | Zeus | Poodle | 8 | 43 | 5.16 | 17/04/2026 07:46 p. m.
+Santiago Lopez | Max | Poodle | 18 | 80 | 18.96 | 26/04/2026 05:03 p. m.
+Camila Gonzalez | Luna | Golden Retriever | 18 | 80 | 20.62 | 11/04/2026 09:28 p. m.
+Emiliano Allen | Bruno | Siberian Husky | 9 | 47 | 24.54 | 28/04/2026 04:38 a. m.
+Nancy Gonzalez | Toby | German Shepherd | 11 | 52 | 29.32 | 10/04/2026 01:13 a. m.
+emiliano anderson | Lola | Poodle | 18 | 80 | 6.48 | 03/05/2026 08:58 p. m.
+Kenneth Harris | Bella | Golden Retriever | 8 | 43 | 26.78 | 07/05/2026 12:20 a. m.
+SUSAN SCOTT | Rocky | German Shepherd | 18 | 80 | 18.61 | 26/04/2026 02:17 p. m.
+James Harris | Thor | Golden Retriever | 0 | 0 | 26.84 | 01/05/2026 06:05 p. m.
+samuel wilson | Thor | Siberian Husky | 18 | 80 | 20.76 | 17/04/2026 10:59 a. m.
+Amelia Johnson | Luna | Chihuahua | 18 | 80 | 2.22 | 30/04/2026 08:51 a. m.
+Jessica Sanchez | Luna | Dachshund | 6 | 35 | 6.12 | 23/04/2026 07:01 a. m.
+Mary Garcia | Molly | German Shepherd | 6 | 35 | 25.88 | 11/04/2026 08:55 a. m.
+WILLIAM HERNANDEZ | Coco | French Bulldog | 3 | 23 | 9.86 | 15/04/2026 11:05 a. m.
+Jessica Allen | Bruno | Beagle | 3 | 23 | 13.69 | 10/04/2026 06:23 p. m.
+Alejandro Lopez | Thor | German Shepherd | 0 | 0 | 24.9 | 19/04/2026 11:48 p. m.
+Liam Smith | Bella | Golden Retriever | 18 | 80 | 20.44 | 12/04/2026 12:28 p. m.
+Kenneth Sanchez | Bruno | Chihuahua | 12 | 56 | 2.51 | 26/04/2026 05:47 a. m.
+Ximena Davis | Daisy | German Sheperd | 2 | 19 | 13.15 | 18/04/2026 10:45 a. m.
+Mariana Williams | Lola | BEAGGLE | 18 | 80 | 14.91 | 25/04/2026 03:36 a. m.
+Barbara Anderson | Lola | GOLDEN RETRIVER | 18 | 80 | 21.61 | 22/04/2026 11:22 a. m.
+Leonardo Thompson | Bruno | French Bulldog | 5 | 31 | 13.93 | 21/04/2026 05:07 p. m.
+Victoria Garcia | Rocky | Beagle | 16 | 72 | 14.4 | 13/04/2026 10:06 p. m.
+Sarah Sanchez | Toby | French Bull dog | 18 | 80 | 9.17 | 04/05/2026 09:13 a. m.
+Anthony Thompson | coco | Chihuahua | 4 | 27 | 3.32 | 05/05/2026 03:51 p. m.
+Santiago Rodriguez | Molly | French Bulldog | 18 | 80 | 9.11 | 26/04/2026 10:23 a. m.
+Diego Gonzalez | Lola | German Sheperd | 8 | 43 | 11.73 | 04/05/2026 07:15 p. m.
+Jessica Anderson | luna | Chihuaua | 18 | 80 | 17.1 | 04/05/2026 10:22 a. m.
+Diego Wilson | lola | Siberian Husky | 18 | 80 | 23.18 | 10/04/2026 10:22 p. m.
+Patricia Gonzalez | Lola | German Shepherd | 18 | 80 | 19.93 | 18/04/2026 02:06 p. m.
+Camila Allen | Luna | Podle | 11 | 52 | 12.53 | 24/04/2026 06:43 a. m.
+Fernando Rodriguez | Duke | Siberian Husky | 18 | 80 | 20.83 | 22/04/2026 01:20 p. m.
+Emma Thompson | Bruno | Chihuahua | 18 | 80 | 2.36 | 12/04/2026 12:02 a. m.
+Charles Garcia | Daisy | Pudle | 3 | 23 | 17.62 | 13/04/2026 03:36 p. m.
+Thomas Wilson | Max | Dachshund | 5 | 31 | 9.33 | 23/04/2026 04:14 a. m.
+Oliver Hernandez | Toby | Golden Retriever | 10 | 48 | 29.87 | 10/04/2026 12:50 a. m.
+Michael Martin | Bruno | Chihuahua | 10 | 48 | 1.66 | 15/04/2026 08:11 a. m.
+Daniela Scott | Coco | Dachshund | 4 | 27 | 7.01 | 12/04/2026 09:16 p. m.
+Susan King | Daisy | Dachshund | 18 | 80 | 5.38 | 19/04/2026 08:40 a. m.
+Adela Harris | Zeus | Beagle | 18 | 80 | 9.41 | 30/04/2026 08:52 p. m.
+Sofía Jones | Luna | Chihuahua | 6 | 35 | 3.44 | 21/04/2026 04:36 a. m.
+William Torres | Bruno | Beagle | 18 | 80 | 13.93 | 13/04/2026 03:34 p. m.
+Linda Torres | Jack | Poodle | 5 | 31 | 7.93 | 24/04/2026 04:33 a. m.
+Patricia Hernandez | Lola | Poodle | 18 | 80 | 5.4 | 02/05/2026 05:34 a. m.
+Joaquin Lopez | Zeus | Beagle | 16 | 72 | 10.47 | 19/04/2026 04:01 a. m.
+Jason Garcia | MOLLY | Siberian Husky | 13 | 60 | 19.61 | 14/04/2026 03:57 p. m.
+Nancy Young | Cooper | GERMAN SHEPHERD | 18 | 80 | 25.13 | 17/04/2026 04:31 p. m.
+Isabella Thomas | Bruno | Poodle | 18 | 80 | 15.9 | 19/04/2026 01:21 a. m.
+Joaquin Davis | Molly | Siberian Husky | 18 | 80 | 16.09 | 21/04/2026 10:52 p. m.
+Charlotte Wilson | Luna | french bulldog | 18 | 80 | 10.95 | 22/04/2026 01:38 a. m.
+Michael Allen | Toby | French Bulldog | 10 | 48 | 11.11 | 18/04/2026 10:17 p. m.
+Barbara Sanchez | Lola | French Bulldog | 10 | 48 | 8.36 | 25/04/2026 01:16 p. m.
+Harper Miller | Jack | French Bulldog | 16 | 72 | 11.43 | 24/04/2026 07:23 a. m.
+Gabriela Davis | Zeus | Siberian Husky | 18 | 80 | 19.56 | 27/04/2026 07:09 a. m.
+Elizabeth Thompson | Bella | Chihuahua | 1 | 13 | 3.93 | 27/04/2026 01:07 a. m.
+Javier Harris | Cooper | Chihuahua | 18 | 80 | 1.6 | 20/04/2026 02:22 a. m.
+Lucas Smith | Rocky | Siberian Husky | 18 | 80 | 16.81 | 03/05/2026 12:38 a. m.
+Donald Lopez | Cooper | Poodle | 4 | 27 | 16.12 | 04/05/2026 09:50 p. m.
+Mateo Garcia | Lola | German Shepherd | 17 | 76 | 29.96 | 17/04/2026 03:52 p. m.
+Richard Garcia | Daisy | German Shepear | 6 | 35 | 19.07 | 15/04/2026 02:12 p. m.
+Joshua Gonzalez | Duke | Poodle | 18 | 80 | 3.46 | 18/04/2026 01:35 a. m.
+Andrew Hernandez | Toby | Gold Retiever | 18 | 80 | 12.05 | 12/04/2026 03:12 p. m.
+John Martin | Luna | Chihuahua | 18 | 80 | 3.68 | 04/05/2026 11:30 a. m.
+Victoria Allen | Cooper | Podle | 8 | 43 | 9.86 | 25/04/2026 09:02 a. m.
+Valeria Martin | Luna | German Shepherd | 3 | 23 | 23.94 | 24/04/2026 01:52 a. m.
+Edward Thomas | Lola | Dachshund | 18 | 80 | 4.4 | 03/05/2026 01:09 a. m.
+Mariana Anderson | Duke | German Shepherd | 18 | 80 | 25.63 | 05/05/2026 06:20 a. m.
+Linda Hernandez | Luna | Siberian Husky | 9 | 47 | 16.65 | 03/05/2026 08:35 a. m.
+Santiago Anderson | Daisy | Podle | 15 | 68 | 9.77 | 06/05/2026 11:30 a. m.
+Mariana Davis | Rocky | Podle | 18 | 80 | 14.99 | 17/04/2026 10:57 p. m.
+Mateo Young | Rocky | Chihuahua | 18 | 80 | 1.57 | 27/04/2026 06:05 a. m.
+Noah Thompson | Zeus | Beagle | 16 | 72 | 10.66 | 26/04/2026 06:52 p. m.
+Karen Wilson | Daisy | French Bulldog | 18 | 80 | 13.31 | 16/04/2026 01:09 p. m.
+John Thompson | Thor | Siberian Husky | 0 | 0 | 23.28 | 23/04/2026 09:24 p. m.
+Andrew Gonzalez | Bruno | German Shepherd | 2 | 19 | 29.73 | 06/05/2026 01:07 p. m.
+Emma Allen | coco | French Bulldog | 17 | 76 | 10.1 | 28/04/2026 04:30 a. m.
+Joaquin White | Lola | Dachshund | 16 | 72 | 5.0 | 03/05/2026 01:40 p. m.
+Michael Torres | Bruno | Poodle | 4 | 27 | 4.81 | 20/04/2026 05:02 p. m.
+Brian King | toby | German Sheperd | 4 | 27 | 10.93 | 17/04/2026 09:50 a. m.
+JENNIFER WHITE | Bruno | Pudle | 16 | 72 | 8.81 | 30/04/2026 08:56 a. m.
+Jennifer Anderson | Jack | CHIHUAHUA | 4 | 27 | 3.0 | 28/04/2026 06:28 a. m.
+Mark White | Molly | French Bulldog | 18 | 80 | 10.65 | 18/04/2026 08:22 a. m.
+Patricia Johnson | Cooper | Siberian Husky | 2 | 19 | 20.63 | 14/04/2026 05:47 p. m.
+Michael Wright | Toby | German Shepherd | 4 | 27 | 19.44 | 13/04/2026 01:30 p. m.
+Harper Sanchez | Lola | Beagle | 18 | 80 | 12.59 | 24/04/2026 07:20 a. m.
+Sarah Jones | Thor | Golden Retriever | 18 | 80 | 24.23 | 23/04/2026 03:57 a. m.
+Elizabeth Sanchez | Zeus | German Shepear | 18 | 80 | 13.76 | 14/04/2026 10:08 p. m.
+Susan Torres | Zeus | Poodle | 8 | 43 | 6.79 | 20/04/2026 02:16 p. m.
+DONALD TAYLOR | Bella | French Bulldog | 18 | 80 | 8.57 | 02/05/2026 04:18 a. m.
+Emma Jackson | Bruno | Beagle | 18 | 80 | 14.55 | 23/04/2026 08:27 p. m.
+Barbara Rodriguez | Max | Dashchund | 18 | 80 | 13.85 | 28/04/2026 11:48 a. m.
+Luciana Miller | Duke | chihuahua | 2 | 19 | 1.77 | 22/04/2026 10:56 a. m.
+Joseph Smith | Daisy | Chiuahua | 18 | 80 | 9.64 | 30/04/2026 07:56 p. m.
+Noah Anderson | Bruno | Chihuahua | 1 | 13 | 2.57 | 15/04/2026 06:52 a. m.
+joshua miller | Cooper | Beagle | 11 | 52 | 13.09 | 19/04/2026 01:08 p. m.
+Christopher Gonzalez | Jack | Dachshund | 3 | 23 | 9.39 | 20/04/2026 03:35 p. m.
+robert wilson | Rocky | Pudle | 18 | 80 | 12.77 | 15/04/2026 12:06 a. m.
+Mary Hernandez | Jack | Poodle | 18 | 80 | 17.21 | 19/04/2026 09:18 p. m.
+CHARLOTTE DAVIS | Cooper | Pudle | 16 | 72 | 14.17 | 16/04/2026 07:57 p. m.
+Elizabeth Garcia | Thor | Siberian Husky | 18 | 80 | 25.0 | 22/04/2026 11:45 a. m.
+Matthew Garcia | Luna | German Shepherd | 18 | 80 | 29.18 | 23/04/2026 09:48 a. m.
+Matias Jones | Molly | French Bulldog | 10 | 48 | 13.51 | 13/04/2026 11:50 a. m.
+Patricia Jackson | Lola | Beagle | 14 | 64 | 9.21 | 15/04/2026 05:33 p. m.
+Mia Johnson | Jack | Chihuahua | 0 | 0 | 1.84 | 21/04/2026 12:19 a. m.
+Isabella Sanchez | Luna | Chihuahua | 1 | 13 | 3.49 | 12/04/2026 08:52 a. m.
+edward torres | Rocky | beagle | 18 | 80 | 11.86 | 25/04/2026 05:17 p. m.
+Daniela Garcia | Coco | Golden Retriever | 4 | 27 | 22.6 | 06/05/2026 03:45 a. m.
+susan jackson | Duke | Poodle | 0 | 0 | 14.06 | 06/05/2026 03:55 a. m.
+VALERIA GONZALEZ | lola | French Bulldog | 5 | 31 | 13.92 | 12/04/2026 10:09 p. m.
+Jessica Lopez | Cooper | Siberian Husky | 18 | 80 | 25.16 | 02/05/2026 02:46 p. m.
+Joseph Harris | Toby | Poodle | 6 | 35 | 13.19 | 04/05/2026 01:13 a. m.
+George Scott | Lola | Poodle | 18 | 80 | 8.98 | 17/04/2026 09:53 a. m.
+Fernando Gonzalez | bella | Beagle | 9 | 47 | 10.57 | 29/04/2026 03:36 p. m.
+Javier Davis | Max | Golden Retriever | 1 | 13 | 23.13 | 25/04/2026 11:31 a. m.
+Lucas Sanchez | Coco | Poodle | 15 | 68 | 6.46 | 11/04/2026 11:19 p. m.
+Susan Gonzalez | Duke | beagle | 10 | 48 | 10.33 | 01/05/2026 05:08 a. m.
+Andrew Martinez | Bruno | French Bulldog | 1 | 13 | 13.38 | 15/04/2026 03:00 p. m.
+Timothy Miller | Rocky | German Shepherd | 18 | 80 | 18.67 | 12/04/2026 01:31 p. m.
+Lisa Young | Molly | Poodle | 3 | 23 | 4.36 | 11/04/2026 04:53 a. m.
+Adela Hernandez | Rocky | german shepherd | 9 | 47 | 28.16 | 04/05/2026 10:42 p. m.
+Emiliano Miller | Coco | Golden Retriver | 18 | 80 | 24.52 | 01/05/2026 12:12 p. m.
+Benjamin Williams | Daisy | French Bulldog | 9 | 47 | 11.67 | 24/04/2026 01:11 p. m.
+Mariana Thomas | Toby | German Shepherd | 14 | 64 | 24.59 | 27/04/2026 10:43 p. m.
+Sofía Hernandez | Max | French Bulldog | 15 | 68 | 11.58 | 27/04/2026 06:50 p. m.
+Jessica Garcia | Cooper | Beagle | 10 | 48 | 12.26 | 28/04/2026 08:09 a. m.
+Martina Wilson | Luna | French Bulldog | 13 | 60 | 8.55 | 02/05/2026 01:42 p. m.
+samuel garcia | Duke | Golden Retriever | 18 | 80 | 21.6 | 23/04/2026 01:41 p. m.
+Isabella Jones | Cooper | Siberian Husky | 5 | 31 | 21.23 | 14/04/2026 09:20 p. m.
+NICOLAS WILLIAMS | Bruno | Dachshund | 18 | 80 | 9.34 | 27/04/2026 11:24 a. m.
+Nancy Wilson | Cooper | Poodle | 18 | 80 | 4.58 | 17/04/2026 03:08 a. m.
+Lucas Rodriguez | Duke | German Shepherd | 18 | 80 | 28.77 | 16/04/2026 01:43 a. m.
+Nancy Davis | Daisy | Dachshund | 18 | 80 | 8.95 | 15/04/2026 01:19 a. m.
+Adela Scott | Max | German Shepart | 17 | 76 | 15.67 | 13/04/2026 12:00 a. m.
+Jennifer Perez | Luna | Dachshund | 1 | 13 | 4.11 | 16/04/2026 05:31 p. m.
+STEVEN GARCIA | Lola | Chihuahua | 2 | 19 | 3.13 | 10/04/2026 03:03 a. m.
+Javier Gonzalez | Max | Poodle | 18 | 80 | 5.0 | 22/04/2026 04:39 p. m.
+Karen Torres | Bella | Siberian Husky | 0 | 0 | 21.01 | 29/04/2026 12:02 p. m.
+VALERIA MILLER | Jack | Chihuaua | 13 | 60 | 15.06 | 17/04/2026 02:27 a. m.
+Ximena Taylor | Molly | German Shepherd | 18 | 80 | 28.45 | 04/05/2026 12:04 a. m.
+Patricia Smith | Jack | Chihuahua | 1 | 13 | 3.91 | 11/04/2026 06:18 p. m.
+Amelia Gonzalez | Coco | Beagle | 5 | 31 | 9.88 | 12/04/2026 02:58 a. m.
+Joseph Allen | Thor | Poodle | 18 | 80 | 16.1 | 13/04/2026 04:52 a. m.
+Santiago Williams | Jack | Beagle | 11 | 52 | 14.08 | 02/05/2026 10:27 a. m.
+Andrew Johnson | Rocky | POODLE | 18 | 80 | 14.45 | 17/04/2026 05:49 p. m.
+Ricardo Martinez | Jack | Dachshund | 7 | 39 | 4.97 | 28/04/2026 03:25 a. m.
+Charlotte Wright | Daisy | Siberian Husky | 16 | 72 | 23.53 | 04/05/2026 10:12 p. m.
+Daniel Rodriguez | Molly | siberian husky | 10 | 48 | 18.69 | 09/04/2026 09:32 p. m.
+Jeffrey Taylor | Daisy | Dachshund | 18 | 80 | 4.96 | 30/04/2026 10:44 p. m.
+Andrew Allen | Duke | Golden Retriever | 4 | 27 | 24.26 | 17/04/2026 01:27 a. m.
+Michael Williams | Max | siberian husky | 0 | 0 | 25.93 | 17/04/2026 06:06 p. m.
+Alejandro Rodriguez | Rocky | Poodle | 16 | 72 | 19.35 | 04/05/2026 07:06 a. m.
+Matthew Scott | Coco | Golden Retriever | 14 | 64 | 27.91 | 21/04/2026 10:21 p. m.
+Oliver Scott | Molly | German Shepherd | 1 | 13 | 19.16 | 24/04/2026 02:01 a. m.
+Santiago King | Max | Beagle | 14 | 64 | 11.14 | 02/05/2026 06:12 p. m.
+Leonardo King | Bella | Podle | 6 | 35 | 9.26 | 28/04/2026 04:48 a. m.
+Robert Torres | Duke | Beagle | 18 | 80 | 14.96 | 24/04/2026 10:27 p. m.
+Camila Wilson | Max | CHIHUAUA | 10 | 48 | 12.97 | 02/05/2026 09:42 p. m.
+Timothy Thomas | Thor | Poodle | 18 | 80 | 3.86 | 26/04/2026 08:56 a. m.
+Elizabeth Martinez | Lola | Poodle | 0 | 0 | 8.7 | 07/05/2026 12:19 a. m.
+Liam Davis | Luna | French Bulldog | 6 | 35 | 11.66 | 11/04/2026 04:58 a. m.
+Joshua Thompson | JACK | German Shepherd | 15 | 68 | 24.8 | 26/04/2026 06:25 a. m.
+kevin wright | Toby | Poodle | 18 | 80 | 12.92 | 05/05/2026 12:20 a. m.
+Jennifer Brown | Rocky | Podle | 15 | 68 | 13.79 | 02/05/2026 03:30 a. m.
+William Martinez | Cooper | French Bulldog | 18 | 80 | 11.0 | 30/04/2026 01:27 a. m.
+Sofía White | Coco | Golden Retriever | 8 | 43 | 23.46 | 19/04/2026 01:32 a. m.
+Joaquin Hernandez | Coco | Poodle | 18 | 80 | 17.92 | 22/04/2026 09:52 p. m.
+Lucas Allen | Bruno | German Shepear | 18 | 80 | 14.87 | 20/04/2026 08:25 a. m.
+Liam Garcia | Zeus | Siberian Husky | 10 | 48 | 23.58 | 10/04/2026 12:20 p. m.
+Kevin Martin | Thor | French Bulldog | 18 | 80 | 10.64 | 30/04/2026 08:50 p. m.
+Patricia Allen | Luna | German Shepherd | 3 | 23 | 20.84 | 19/04/2026 05:27 a. m.
+Edward Johnson | bella | Siberian Husky | 6 | 35 | 16.48 | 13/04/2026 10:49 a. m.
+Mariana Martin | Bella | DACHSHUND | 18 | 80 | 6.83 | 12/04/2026 01:55 a. m.
+Oliver Anderson | Cooper | Dachshund | 9 | 47 | 5.33 | 28/04/2026 06:58 p. m.
+Nicolas Scott | Molly | Golden Retriever | 1 | 13 | 29.82 | 03/05/2026 12:26 p. m.
+Richard Lopez | Rocky | Poodle | 14 | 64 | 15.02 | 28/04/2026 01:28 a. m.
+ricardo rodriguez | Lola | Beagle | 17 | 76 | 13.27 | 15/04/2026 03:38 a. m.
+Nancy Wright | Max | German Shepherd | 18 | 80 | 20.71 | 11/04/2026 04:46 a. m.
+Karen Smith | Molly | Dachshund | 14 | 64 | 8.17 | 13/04/2026 10:10 a. m.
+Victoria Rodriguez | Luna | Siberian Husky | 18 | 80 | 19.97 | 05/05/2026 01:15 p. m.
+Paul Anderson | Coco | Chihuahua | 14 | 64 | 3.76 | 30/04/2026 11:25 p. m.
+Emiliano Jones | Bruno | Siberian Husky | 9 | 47 | 22.6 | 17/04/2026 11:08 a. m.
+Kevin Jones | Zeus | Siberian Husky | 10 | 48 | 21.95 | 02/05/2026 02:43 a. m.
+Joaquin King | MAX | Chihuahua | 4 | 27 | 1.53 | 17/04/2026 12:48 p. m.
+Mia Torres | Thor | Poodle | 10 | 48 | 3.18 | 17/04/2026 08:11 p. m.
+Elizabeth Wright | Luna | Dachshund | 18 | 80 | 6.69 | 29/04/2026 09:06 a. m.
+Harper Harris | Bella | Siberian Husky | 1 | 13 | 19.3 | 11/04/2026 07:09 p. m.
+Robert Thomas | Duke | Siberian Husky | 18 | 80 | 20.85 | 05/05/2026 07:30 a. m.
+Isabella Scott | Duke | Dachshund | 18 | 80 | 6.63 | 20/04/2026 12:44 a. m.
+Christopher Thomas | Daisy | Siberian Husky | 18 | 80 | 19.39 | 10/04/2026 04:16 a. m.
+Isabella King | Max | German Shepherd | 16 | 72 | 21.85 | 15/04/2026 02:44 p. m.
+Isabella Young | Duke | French Bulldog | 17 | 76 | 13.57 | 01/05/2026 12:58 a. m.
+Beatriz Hernandez | Toby | French Bulldog | 4 | 27 | 9.34 | 10/04/2026 09:10 a. m.
+Mary Wright | Max | chihuahua | 18 | 80 | 3.76 | 25/04/2026 06:28 p. m.
+Victoria Thomas | Daisy | Dachshund | 10 | 48 | 6.03 | 29/04/2026 01:24 a. m.
+Mia Rodriguez | Coco | Golden Retriever | 1 | 13 | 20.57 | 23/04/2026 02:28 a. m.
+Beatriz Smith | Toby | Golden Retriever | 18 | 80 | 22.41 | 22/04/2026 01:31 a. m.
+Joaquin Sanchez | Duke | Poodle | 6 | 35 | 9.08 | 17/04/2026 03:39 p. m.
+David Taylor | Luna | French Bulldog | 2 | 19 | 12.01 | 27/04/2026 04:07 a. m.
+Noah Taylor | Bella | Siberian Husky | 11 | 52 | 18.05 | 23/04/2026 06:40 a. m.
+Sebastian Rodriguez | Daisy | Dachshund | 1 | 13 | 8.71 | 11/04/2026 05:22 p. m.
+lisa brown | Duke | Poodle | 9 | 47 | 19.62 | 05/05/2026 03:10 a. m.
+Charlotte Williams | Bella | Siberian Husky | 9 | 47 | 22.42 | 05/05/2026 11:45 p. m.
+Adela Thompson | Bruno | Siberian Husky | 11 | 52 | 25.26 | 26/04/2026 01:25 a. m.
+Jessica Gonzalez | Cooper | Chihuaua | 14 | 64 | 13.18 | 22/04/2026 08:09 a. m.
+Harper Gonzalez | Jack | German Shepherd | 15 | 68 | 20.45 | 10/04/2026 01:59 a. m.
+Mia Garcia | MAX | Dachshund | 0 | 0 | 4.57 | 17/04/2026 02:42 a. m.
+Edward Martinez | Molly | Dachshund | 4 | 27 | 8.2 | 16/04/2026 03:16 a. m.
+Gabriela Wilson | Daisy | Chiuahua | 18 | 80 | 7.34 | 26/04/2026 07:28 a. m.
+Leonardo Garcia | Rocky | Chiuahua | 18 | 80 | 16.8 | 02/05/2026 05:10 a. m.
+Martina Taylor | Lola | Golden Retrevier | 12 | 56 | 21.25 | 03/05/2026 11:50 a. m.
+Felipe Jones | Rocky | Siberian Husky | 18 | 80 | 26.74 | 24/04/2026 07:49 a. m.
+Isabella Lopez | Luna | Beagle | 9 | 47 | 10.3 | 05/05/2026 04:52 p. m.
+Patricia Young | Toby | Podle | 18 | 80 | 5.2 | 18/04/2026 10:05 p. m.
+Harper Wilson | Bruno | Chihuahua | 18 | 80 | 2.84 | 06/05/2026 01:08 a. m.
+martina gonzalez | Lola | Dashchund | 18 | 80 | 5.91 | 10/04/2026 05:16 p. m.
+Patricia Harris | Daisy | Golden Retriever | 6 | 35 | 27.49 | 13/04/2026 01:58 p. m.
+Ricardo Davis | molly | Golden Retriever | 18 | 80 | 22.6 | 10/04/2026 11:12 a. m.
+Sofía Anderson | Rocky | Beagle | 18 | 80 | 12.63 | 30/04/2026 07:55 p. m.
+Beatriz Garcia | Lola | german shepherd | 18 | 80 | 22.49 | 10/04/2026 01:34 a. m.
+Felipe Davis | Zeus | Beagle | 5 | 31 | 9.44 | 23/04/2026 01:34 a. m.
+Michael Smith | Daisy | German Sheperd | 18 | 80 | 16.9 | 10/04/2026 03:39 p. m.
+Camila Thompson | Thor | French Bulldog | 5 | 31 | 10.0 | 10/04/2026 01:08 p. m.
+Donald White | Jack | Dachshund | 18 | 80 | 9.3 | 25/04/2026 12:06 a. m.
+Mary Miller | Lola | French Bulldog | 7 | 39 | 11.65 | 04/05/2026 12:45 a. m.
+Harper Hernandez | Duke | Dachshund | 3 | 23 | 5.57 | 10/04/2026 09:51 a. m.
+Jessica Rodriguez | Jack | POODLE | 12 | 56 | 12.42 | 21/04/2026 01:43 p. m.
+Elizabeth Martin | Luna | DACHSHUND | 13 | 60 | 9.78 | 30/04/2026 08:13 p. m.
+Valeria Brown | Thor | German Shepherd | 13 | 60 | 27.6 | 06/05/2026 10:39 a. m.
+Adela Jones | Daisy | German Shepherd | 6 | 35 | 28.27 | 24/04/2026 02:31 p. m.
+kenneth perez | THOR | French Bulldog | 9 | 47 | 8.42 | 14/04/2026 05:13 a. m.
+Matthew Wilson | Molly | Dachshund | 10 | 48 | 4.0 | 13/04/2026 08:59 a. m.
+karen johnson | Max | German Shepherd | 18 | 80 | 22.64 | 11/04/2026 04:51 a. m.
+Emiliano Wilson | Cooper | Chihuahua | 10 | 48 | 2.24 | 22/04/2026 06:18 a. m.
+Charlotte Miller | Toby | Dachshund | 18 | 80 | 9.86 | 12/04/2026 03:59 p. m.
+Noah Martinez | Bella | French Bulldog | 16 | 72 | 8.75 | 21/04/2026 12:59 p. m.
+Lucas Miller | DUKE | Dachund | 14 | 64 | 17.57 | 02/05/2026 01:18 a. m.
+Luciana Jones | Zeus | Beagle | 18 | 80 | 11.05 | 28/04/2026 11:47 p. m.
+Felipe Smith | Max | Beagle | 2 | 19 | 9.94 | 23/04/2026 12:05 p. m.
+Beatriz Scott | Jack | Beagle | 18 | 80 | 14.96 | 23/04/2026 12:06 a. m.
+Andrew Rodriguez | Molly | Begle | 18 | 80 | 13.73 | 01/05/2026 06:46 p. m.
+BRIAN GARCIA | cooper | Chihuahua | 8 | 43 | 3.09 | 14/04/2026 01:58 a. m.
+Mariana Smith | Toby | Beaggle | 14 | 64 | 8.28 | 20/04/2026 05:58 p. m.
+Joshua Wright | Zeus | Dachshund | 18 | 80 | 4.89 | 13/04/2026 03:32 p. m.
+Ronald Sanchez | Rocky | Golden Retriever | 6 | 35 | 22.45 | 23/04/2026 02:04 p. m.
+Diego Gonzalez | Lola | German Sheperd | 8 | 43 | 19.58 | 04/05/2026 07:15 p. m.
+Alejandro Smith | Rocky | Beagle | 18 | 80 | 10.31 | 21/04/2026 09:56 a. m.
+Leonardo Scott | Molly | Chiuahua | 18 | 80 | 6.26 | 22/04/2026 12:10 p. m.
+timothy brown | Thor | Poodle | 12 | 56 | 7.83 | 06/05/2026 07:49 a. m.
+Camila Miller | Duke | Golden Retriever | 18 | 80 | 26.75 | 12/04/2026 03:00 p. m.
+Matias Perez | Toby | Beagle | 16 | 72 | 10.98 | 23/04/2026 05:49 a. m.
+Mia Miller | Bella | Dachund | 2 | 19 | 13.97 | 06/05/2026 04:03 a. m.
+Robert Young | Lola | German Shepherd | 6 | 35 | 28.08 | 19/04/2026 02:53 p. m.
+Elizabeth Rodriguez | Thor | French Bulldog | 7 | 39 | 12.92 | 12/04/2026 03:10 a. m.
+Barbara Wilson | Bruno | French Bulldog | 1 | 13 | 12.2 | 22/04/2026 12:49 p. m.
+Karen Harris | Luna | poodle | 5 | 31 | 11.76 | 17/04/2026 08:05 p. m.
+Linda Thompson | Max | Poodle | 12 | 56 | 3.18 | 02/05/2026 02:48 a. m.
+Lisa Taylor | Molly | Siberian Huski | 18 | 80 | 10.71 | 17/04/2026 07:21 p. m.
+Joshua Jackson | Bella | SIBERIAN HUSKY | 18 | 80 | 22.52 | 28/04/2026 10:25 p. m.
+Paul Martin | Bruno | Golden Retriever | 8 | 43 | 24.11 | 28/04/2026 07:27 a. m.
+Matias King | Rocky | Beagle | 18 | 80 | 10.61 | 06/05/2026 07:39 p. m.
+Oliver Perez | DUKE | Chihuahua | 18 | 80 | 2.04 | 19/04/2026 11:10 p. m.
