@@ -5,13 +5,20 @@ Data generated from the C# Dog Age Calculator project is collected in a MySQL da
 ![dashboard_main](assets/dashboard_main.png)
 
 ## Data Pipeline
-C# App (Generation) → Text Files → MySQL (Persistence and SQL Cleanup) → Power BI (Analysis and UI).
+C# Application → TXT Data Export → MySQL Database → SQL Data Cleaning → Power BI Dashboard
+
+## Dashboard Insights
+- Average dog age and weight tracking
+- Breed distribution analysis
+- Age-weight relationship visualization
+- Dynamic highlighting of dominant breeds
 
 ## Features
-- **Data Normalization & Cleaning:** Processing raw data using SQL to standardize breed names, correct typing errors, and filter out biologically impossible values.
-- **Dog Data Metrics:** Visualization of key KPIs such as average converted age, weight variance, and demographic distribution by life stage (puppies vs. adults).
-- **Dynamic Visual Highlighting:** Implementation of custom DAX logic to automatically highlight the most populated race based on applied filters.
-- **Interactive UI/UX:** Interface designed with a consistent color palette (Orange/Charcoal Gray) and data slicers with visual states of "Hover" and "Selected" for a desktop application-like experience.
+- Data cleaning and normalization using SQL
+- Interactive Power BI dashboard with KPI metrics
+- Dynamic DAX conditional formatting
+- Breed filtering with interactive slicers
+- Age vs. weight relationship analysis
 
 ## Technologies
 - **MySQL Workbench:** Database engine for persistence and normalization.
